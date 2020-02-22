@@ -1,0 +1,8 @@
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/install
+
+Name: trajectory_control_msgs
+Description: Description of trajectory_control_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

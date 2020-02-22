@@ -1,0 +1,2 @@
+stigmergy_planner:trajectory_control:turtlebot_octomap
+-DCATKIN_DEVEL_PREFIX=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel -DCMAKE_INSTALL_PREFIX=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel
+
+Name: joint_state_filtering
+Description: Description of joint_state_filtering
+Version: 0.0.0
+Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/joint_state_filtering/include
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp rospy std_msgs sensor_msgs

@@ -1,0 +1,2 @@
+set(trajectory_control_msgs_MESSAGE_FILES "msg/TrajectoryControlAction.msg;msg/TrajectoryControlActionGoal.msg;msg/TrajectoryControlActionResult.msg;msg/TrajectoryControlActionFeedback.msg;msg/TrajectoryControlGoal.msg;msg/TrajectoryControlResult.msg;msg/TrajectoryControlFeedback.msg")
+set(trajectory_control_msgs_SERVICE_FILES "")

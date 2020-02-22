@@ -1,0 +1,17 @@
+<launch>
+  <arg name="robot_prefix" value="turtlebot1" />
+
+  <node name="path_marker_$(arg robot_prefix)" pkg="stigmergy_planner" type="path_marker" respawn="false" output="screen">
+         
+         <param name = "path_topic_name" value = "/$(arg robot_prefix)/final_stigmergy_path"/>
+
+         <param name = "marker_topic_name" value = "/$(arg robot_prefix)/final_stigmergy_path_marker"/>
+
+         <param name = "color_r" value = "0"/>
+         <param name = "color_g" value = "1"/>
+         <param name = "color_b" value = "0"/>
+  </node> 
+
+
+</launch>
+

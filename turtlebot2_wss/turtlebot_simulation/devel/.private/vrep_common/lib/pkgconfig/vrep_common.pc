@@ -1,0 +1,8 @@
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_common
+
+Name: vrep_common
+Description: Description of vrep_common
+Version: 3.3.0
+Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_common/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

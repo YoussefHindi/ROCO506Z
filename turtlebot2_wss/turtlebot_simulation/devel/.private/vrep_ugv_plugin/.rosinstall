@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_ugv_plugin/setup.sh

@@ -1,0 +1,7 @@
+<launch>
+  <!-- turtlebot_teleop_key already has its own built in velocity smoother -->
+  <arg name="robot_prefix" default="turtlebot1"/>
+  <node pkg="turtlebot_teleop_keyboard" type="turtlebot_teleop_key_diff_drive" name="turtlebot_teleop_key_diff_drive_$(arg robot_prefix)"  output="screen">
+    <remap from="/wheels_vel_cmd" to="/$(arg robot_prefix)/wheels_vel_cmd"/>
+  </node>
+</launch>
