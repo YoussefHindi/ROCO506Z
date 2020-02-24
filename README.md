@@ -16,3 +16,24 @@ git config --global user.email "j0h@example.com"
 git config --global user.name "jOh"
 
 git config -l
+
+////////////////////////////////////////////
+
+roscore
+./vrep.sh
+roslaunch turtlebot_rviz_launchers vrep_turtlebot_rviz_launch.launch
+roslaunch turtlebot_octomap turtlebot_octomap.launch
+roslaunch trajectory_control trajectory_control.launch
+roslaunch stigmergy_planner stigmergy_planner.launch
+
+roslaunch turtlebot_teleop_keyboard keyboard_teleop_diff_drive.launch
+roslaunch rgb_pcd_kinect_fusion rgb_pcd_kinect_fusion.launch
+
+
+
+
+
+
+
+
+
