@@ -1,8 +1,8 @@
-prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel
+prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel
 
 Name: trajectory_control_msgs
 Description: Description of trajectory_control_msgs
 Version: 0.0.0
-Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/include
-Libs: -L${prefix}/lib 
+Cflags: -I/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/include
+Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/lib 
 Requires: 

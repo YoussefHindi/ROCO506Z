@@ -13,5 +13,14 @@ type="octomap_server_node" respawn="false" output="screen">
  <remap from = "cloud_in" to = "/$(arg robot_prefix)/depth/pcd_rect"/>
  <remap from = "octomap_point_cloud_centers" to = "/$(arg 
 robot_prefix)/octomap"/>
+
+	<remap from = "octomap_binary" to = "/$(arg robot_prefix)/octomap_binary"/>
+	 <remap from = "octomap_full" to = "/$(arg robot_prefix)/octomap_full"/>
+	 <remap from = "occupied_cells_vis_array" to = "/$(arg robot_prefix)/occupied_cells_vis_array"/>
+	 <remap from = "octomap_collision_object" to = "/$(arg robot_prefix)/octomap_collision_object"/>
+	 <remap from = "collision_map_out" to = "/$(arg robot_prefix)/collision_map_out"/>
+	 <remap from = "projected_map" to = "/$(arg robot_prefix)/projected_map"/>
+
+
 </node> 
 </launch>

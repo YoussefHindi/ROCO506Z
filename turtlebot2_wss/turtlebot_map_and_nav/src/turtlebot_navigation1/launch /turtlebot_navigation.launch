@@ -1,0 +1,20 @@
+<launch>
+
+	<arg name="robot_prefix" value="turtlebot1" />
+   <node pkg="rgb_pcd_kinect_fusion" type="rgb_pcd_kinect_fusion" name="rgb_pcd_kinect_fusion_$(arg robot_prefix)" output="screen">
+    <param name="image_topic" value="/$(arg robot_prefix)/rgb/image_rect_color" />
+		<param name="pcl_topic" value="/$(arg robot_prefix)/depth/pcd"/>
+		<param name="pcd_color_topic" value="/$(arg robot_prefix)/depth/pcd_colored" />
+		<param name="pcd_rect_topic" value="/$(arg robot_prefix)/depth/pcd_rect"/>
+		<param name="far_clip" type="double" value="3.5" />
+ </node>
+
+ <!--node pkg="odom_node_pkg" type="odom_node_type" name="odom_node" output="screen">
+    <param name="odom_param" value="param_value" />
+ </node>
+
+ <node pkg="transform_configuration_pkg" type="transform_configuration_type" name="transform_configuration_name" output="screen">
+    <param name="transform_configuration_param" value="param_value" />
+ </node-->
+
+</launch> 
