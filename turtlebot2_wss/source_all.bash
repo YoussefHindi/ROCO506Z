@@ -13,3 +13,6 @@ source $TURTLEBOT_DRIVERS_WS4/devel/setup.bash --extend
 
 TURTLEBOT_MAP_AND_NAV_WS6=~/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav
 source $TURTLEBOT_MAP_AND_NAV_WS6/devel/setup.bash --­­extend
+
+TURTLEBOT_MAP_AND_NAV_WS7=~/ROCO506Z/turtlebot2_wss/turtlebot_2dslam
+source $TURTLEBOT_MAP_AND_NAV_WS7/devel/setup.bash --­­extend

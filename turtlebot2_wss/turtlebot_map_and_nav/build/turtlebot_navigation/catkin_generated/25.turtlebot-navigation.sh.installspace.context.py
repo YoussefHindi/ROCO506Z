@@ -2,7 +2,7 @@
 DEVELSPACE = False
 INSTALLSPACE = True
 
-CATKIN_DEVEL_PREFIX = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel'
+CATKIN_DEVEL_PREFIX = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel'
 
 CATKIN_GLOBAL_BIN_DESTINATION = 'bin'
 CATKIN_GLOBAL_ETC_DESTINATION = 'etc'
@@ -20,14 +20,14 @@ CATKIN_PACKAGE_LIBEXEC_DESTINATION = ''
 CATKIN_PACKAGE_PYTHON_DESTINATION = 'lib/python2.7/dist-packages/turtlebot_navigation'
 CATKIN_PACKAGE_SHARE_DESTINATION = 'share/turtlebot_navigation'
 
-CMAKE_BINARY_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build'
-CMAKE_CURRENT_BINARY_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation'
-CMAKE_CURRENT_SOURCE_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation'
-CMAKE_INSTALL_PREFIX = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install'
-CMAKE_SOURCE_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src'
+CMAKE_BINARY_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build'
+CMAKE_CURRENT_BINARY_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation'
+CMAKE_CURRENT_SOURCE_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation'
+CMAKE_INSTALL_PREFIX = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install'
+CMAKE_SOURCE_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src'
 
 PROJECT_NAME = 'turtlebot_navigation'
-PROJECT_BINARY_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation'
-PROJECT_SOURCE_DIR = '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation'
+PROJECT_BINARY_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation'
+PROJECT_SOURCE_DIR = '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation'
 
-PYTHON_EXECUTABLE = '/usr/bin/python2'
+PYTHON_EXECUTABLE = '/usr/bin/python'

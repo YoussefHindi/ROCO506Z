@@ -1,3 +1,13 @@
-Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig.cmake
-Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig-version.cmake
-Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/vrep_simulation.pc
+Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig-version.cmake
+Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig.cmake
+Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/vrep_simulation.pc
+Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_simulation/cmake.lock, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./cmake.lock)
+Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_simulation/share/vrep_simulation/cmake/vrep_simulationConfig.cmake, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig.cmake)
+Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_simulation/share/vrep_simulation/cmake/vrep_simulationConfig-version.cmake, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig-version.cmake)
+Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_simulation/lib/pkgconfig/vrep_simulation.pc, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/vrep_simulation.pc)
+Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig.cmake
+Already unlinked: {}
+Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/vrep_simulation/cmake/vrep_simulationConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/vrep_simulation.pc
+Already unlinked: {}

@@ -1,2 +1,2 @@
 turtlebot_rviz_launchers
--DCATKIN_DEVEL_PREFIX=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel -DCMAKE_INSTALL_PREFIX=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel -DCMAKE_INSTALL_PREFIX=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/install -G Unix Makefiles

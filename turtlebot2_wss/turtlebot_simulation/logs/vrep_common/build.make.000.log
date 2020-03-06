@@ -1,770 +1,770 @@
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetCollisionHandle[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadScene[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollisionHandle
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadScene
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_VisionSensorData[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosRemoveUI[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearIntegerSignal[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectFloatParameter[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveUI
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearIntegerSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectFloatParameter
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ObjectGroupData[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosStopSimulation[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearStringSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_ObjectGroupData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStopSimulation
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearStringSignal
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDialogInput[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogInput
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectPosition[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosTransferFile[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPosition
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosTransferFile
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEnablePublisher[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDialogResult[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetLastErrors[0m
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosDisableSubscriber[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnablePublisher
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogResult
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisableSubscriber
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectFloatParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetIntegerParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectChild[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadUI[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectChild
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectFloatParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadUI
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosDisablePublisher[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosRemoveModel[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointForce[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisablePublisher
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveModel
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectPose[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointForce
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetBooleanParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCloseScene[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectPose
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisableSubscriber
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetLastErrors
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetBooleanParameter
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadCollision[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectParent[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCloseScene
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEraseFile[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadCollision
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEraseFile
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectParent
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetInfo[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff[0m
-[  0%] Built target std_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleShow[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetInfo
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion
-[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadForceSensor[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetAndClearStringSignal[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectPose[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleShow
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectHandle[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadForceSensor
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetAndClearStringSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPose
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ProximitySensorData[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDialogResult[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSynchronous[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger
+[  0%] Built target _vrep_common_generate_messages_check_deps_ProximitySensorData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogResult
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronous
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadUI[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadModel[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadUI
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEnablePublisher[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadScene[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadModel
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetCollisionHandle[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnablePublisher
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadScene
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollisionHandle
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjects[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ScriptFunctionCallData[0m
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectSelection[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectHandle
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjects[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectSelection
-[  0%] Built target _vrep_common_generate_messages_check_deps_ScriptFunctionCallData
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjects
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadVisionSensor[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetStringSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCreateDummy[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadVisionSensor
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetJointState[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetStringSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCreateDummy
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointState
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointPosition[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUIHandle[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUISlider[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointPosition
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosLoadModel[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIHandle
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetUISlider[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUISlider
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ForceSensorData[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadModel
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUISlider
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_JointSetStateData[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSynchronous[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_ForceSensorData
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_JointSetStateData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronous
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetModelProperty[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjects
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUIEventButton[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointState[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetModelProperty
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleOpen[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectIntParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_ScriptFunctionCallData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectSelection
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearIntegerSignal[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUISlider
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter[0m
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIEventButton
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointState
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectFloatParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearIntegerSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectFloatParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectParent[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUISlider[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEraseFile[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUISlider
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectParent
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosStopSimulation[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEraseFile
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectPosition[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStopSimulation
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectFloatParameter[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetInfo[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetIntegerParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPosition
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectChild[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectFloatParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetInfo
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleShow[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectChild
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadForceSensor[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetAndClearStringSignal[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleShow
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectHandle[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectPose[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetAndClearStringSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadForceSensor
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointForce[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectHandle
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosRemoveUI[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPose
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_JointSetStateData[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointForce
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadDistance[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveUI
+[  0%] Built target _vrep_common_generate_messages_check_deps_JointSetStateData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosPauseSimulation[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetStringSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadVisionSensor[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadDistance
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ForceSensorData[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosPauseSimulation
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringSignal
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosTransferFile[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadVisionSensor
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_ForceSensorData
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDialogInput[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosTransferFile
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointPosition[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosDisablePublisher[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogInput
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosRemoveModel[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointPosition
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveModel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCallScriptFunction[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisablePublisher
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetJointMatrix[0m
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetStringParameter[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleOpen
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectIntParameter
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCallScriptFunction[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointMatrix
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringParameter
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetLastErrors[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ProximitySensorData[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCloseScene[0m
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosCallScriptFunction
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
-[  0%] Built target sensor_msgs_generate_messages_eus
-[  0%] Built target _vrep_common_generate_messages_check_deps_ProximitySensorData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetLastErrors
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectParent[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEndDialog[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleClose[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectParent
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadCollision[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCloseScene
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointMatrix
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointState[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleOpen[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadCollision
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointState
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosClearStringSignal[0m
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetModelProperty[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEndDialog
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleOpen
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosRemoveObject[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleClose
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetCollectionHandle[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_VisionSensorData[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearStringSignal
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetModelProperty
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetJointState[0m
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveObject
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollectionHandle
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosStartSimulation[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosDisplayDialog[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStartSimulation
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisplayDialog
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetStringSignal[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorData
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosCreateDummy[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_ObjectGroupData[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointState
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetStringSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCreateDummy
+[  0%] Built target _vrep_common_generate_messages_check_deps_ObjectGroupData
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetModelProperty[0m
 [35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_VrepInfo[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosPauseSimulation[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosReadDistance[0m
-[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetStringSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage[0m
 [  0%] Built target _vrep_common_generate_messages_check_deps_VrepInfo
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosPauseSimulation
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadDistance
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosDisplayDialog[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectIntParameter[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosStartSimulation[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetModelProperty
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisplayDialog
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosEndDialog[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectIntParameter
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleClose[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStartSimulation
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEndDialog
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleClose
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectParent[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectPose[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectParent
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectPose
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetUIHandle[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIHandle
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringSignal
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _vrep_common_generate_messages_check_deps_simRosGetCollectionHandle[0m
 [  0%] Built target sensor_msgs_generate_messages_py
-[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_msgs_generate_messages_py
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
-[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection
 [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[  0%] Built target sensor_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollectionHandle
+[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_lisp
-[  0%] Built target sensor_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target vrep_common_generate_messages_eus[0m
-[35m[1mScanning dependencies of target vrep_common_generate_messages_py[0m
-[35m[1mScanning dependencies of target vrep_common_generate_messages_nodejs[0m
-[  0%] [34m[1mGenerating EusLisp code from vrep_common/ProximitySensorData.msg[0m
-[35m[1mScanning dependencies of target vrep_common_generate_messages_lisp[0m
-[  0%] [34m[1mGenerating Python from MSG vrep_common/ProximitySensorData[0m
-[  0%] [34m[1mGenerating Javascript code from vrep_common/ProximitySensorData.msg[0m
-[  0%] [34m[1mGenerating Lisp code from vrep_common/ProximitySensorData.msg[0m
-[  1%] [34m[1mGenerating Javascript code from vrep_common/VrepInfo.msg[0m
-[  1%] [34m[1mGenerating Lisp code from vrep_common/VrepInfo.msg[0m
-[  1%] [34m[1mGenerating EusLisp code from vrep_common/VrepInfo.msg[0m
-[  1%] [34m[1mGenerating Javascript code from vrep_common/VisionSensorDepthBuff.msg[0m
-[  1%] [34m[1mGenerating Lisp code from vrep_common/VisionSensorDepthBuff.msg[0m
-[  1%] [34m[1mGenerating Python from MSG vrep_common/VrepInfo[0m
-[  1%] [34m[1mGenerating Lisp code from vrep_common/ForceSensorData.msg[0m
-[  1%] [34m[1mGenerating Javascript code from vrep_common/ForceSensorData.msg[0m
-[  2%] [34m[1mGenerating EusLisp code from vrep_common/VisionSensorDepthBuff.msg[0m
-[  2%] [34m[1mGenerating Python from MSG vrep_common/VisionSensorDepthBuff[0m
-[  2%] [34m[1mGenerating Javascript code from vrep_common/ObjectGroupData.msg[0m
-[  3%] [34m[1mGenerating Lisp code from vrep_common/ObjectGroupData.msg[0m
-[  3%] [34m[1mGenerating EusLisp code from vrep_common/ForceSensorData.msg[0m
-[  3%] [34m[1mGenerating Javascript code from vrep_common/ScriptFunctionCallData.msg[0m
-[  3%] [34m[1mGenerating Lisp code from vrep_common/ScriptFunctionCallData.msg[0m
-[  3%] [34m[1mGenerating Javascript code from vrep_common/VisionSensorData.msg[0m
-[  3%] [34m[1mGenerating EusLisp code from vrep_common/ObjectGroupData.msg[0m
-[  3%] [34m[1mGenerating Lisp code from vrep_common/VisionSensorData.msg[0m
-[  3%] [34m[1mGenerating Python from MSG vrep_common/ForceSensorData[0m
-[  4%] [34m[1mGenerating Javascript code from vrep_common/JointSetStateData.msg[0m
-[  4%] [34m[1mGenerating Lisp code from vrep_common/JointSetStateData.msg[0m
-[  4%] [34m[1mGenerating EusLisp code from vrep_common/ScriptFunctionCallData.msg[0m
-[  4%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectPose.srv[0m
-[  4%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectPose.srv[0m
-[  5%] [34m[1mGenerating Python from MSG vrep_common/ObjectGroupData[0m
-[  5%] [34m[1mGenerating Javascript code from vrep_common/simRosGetJointState.srv[0m
-[  5%] [34m[1mGenerating EusLisp code from vrep_common/VisionSensorData.msg[0m
-[  6%] [34m[1mGenerating Lisp code from vrep_common/simRosGetJointState.srv[0m
-[  6%] [34m[1mGenerating Javascript code from vrep_common/simRosGetAndClearStringSignal.srv[0m
-[  6%] [34m[1mGenerating Lisp code from vrep_common/simRosGetAndClearStringSignal.srv[0m
-[  6%] [34m[1mGenerating Python from MSG vrep_common/ScriptFunctionCallData[0m
-[  6%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectSelection.srv[0m
-[  7%] [34m[1mGenerating EusLisp code from vrep_common/JointSetStateData.msg[0m
-[  7%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectSelection.srv[0m
-[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosReadCollision.srv[0m
-[  8%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectPose.srv[0m
-[  8%] [34m[1mGenerating Python from MSG vrep_common/VisionSensorData[0m
-[  8%] [34m[1mGenerating Lisp code from vrep_common/simRosReadCollision.srv[0m
-[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosGetBooleanParameter.srv[0m
-[  8%] [34m[1mGenerating Lisp code from vrep_common/simRosGetBooleanParameter.srv[0m
-[  8%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetJointState.srv[0m
-[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosEraseFile.srv[0m
-[  8%] [34m[1mGenerating Python from MSG vrep_common/JointSetStateData[0m
-[  8%] [34m[1mGenerating Lisp code from vrep_common/simRosEraseFile.srv[0m
-[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosReadProximitySensor.srv[0m
-[  8%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetAndClearStringSignal.srv[0m
-[  9%] [34m[1mGenerating Lisp code from vrep_common/simRosReadProximitySensor.srv[0m
-[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectPose.srv[0m
-[  9%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectPose[0m
-[  9%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectPose.srv[0m
-[ 10%] [34m[1mGenerating Javascript code from vrep_common/simRosCloseScene.srv[0m
-[ 10%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectSelection.srv[0m
-[ 10%] [34m[1mGenerating Lisp code from vrep_common/simRosCloseScene.srv[0m
-[ 10%] [34m[1mGenerating Javascript code from vrep_common/simRosSetModelProperty.srv[0m
-[ 11%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetJointState[0m
-[ 11%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadCollision.srv[0m
-[ 11%] [34m[1mGenerating Lisp code from vrep_common/simRosSetModelProperty.srv[0m
-[ 11%] [34m[1mGenerating Javascript code from vrep_common/simRosCreateDummy.srv[0m
-[ 11%] [34m[1mGenerating Lisp code from vrep_common/simRosCreateDummy.srv[0m
-[ 11%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetAndClearStringSignal[0m
-[ 11%] [34m[1mGenerating Javascript code from vrep_common/simRosSetFloatSignal.srv[0m
-[ 12%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetBooleanParameter.srv[0m
-[ 13%] [34m[1mGenerating Lisp code from vrep_common/simRosSetFloatSignal.srv[0m
-[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadUI.srv[0m
-[ 13%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectSelection[0m
-[ 13%] [34m[1mGenerating EusLisp code from vrep_common/simRosEraseFile.srv[0m
-[ 13%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadUI.srv[0m
-[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectHandle.srv[0m
-[ 13%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectHandle.srv[0m
-[ 14%] [34m[1mGenerating Javascript code from vrep_common/simRosEnablePublisher.srv[0m
-[ 14%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadProximitySensor.srv[0m
-[ 14%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadCollision[0m
-[ 14%] [34m[1mGenerating Lisp code from vrep_common/simRosEnablePublisher.srv[0m
-[ 14%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIHandle.srv[0m
-[ 14%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIHandle.srv[0m
-[ 14%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectPose.srv[0m
-[ 14%] [34m[1mGenerating Javascript code from vrep_common/simRosGetJointMatrix.srv[0m
-[ 14%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetBooleanParameter[0m
-[ 15%] [34m[1mGenerating Lisp code from vrep_common/simRosGetJointMatrix.srv[0m
-[ 15%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectSelection.srv[0m
-[ 15%] [34m[1mGenerating EusLisp code from vrep_common/simRosCloseScene.srv[0m
-[ 15%] [34m[1mGenerating Javascript code from vrep_common/simRosDisableSubscriber.srv[0m
-[ 15%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectSelection.srv[0m
-[ 15%] [34m[1mGenerating Python code from SRV vrep_common/simRosEraseFile[0m
-[ 16%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDialogResult.srv[0m
-[ 16%] [34m[1mGenerating Lisp code from vrep_common/simRosDisableSubscriber.srv[0m
-[ 17%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetModelProperty.srv[0m
-[ 17%] [34m[1mGenerating Javascript code from vrep_common/simRosGetArrayParameter.srv[0m
-[ 17%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDialogResult.srv[0m
-[ 18%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadProximitySensor[0m
-[ 18%] [34m[1mGenerating EusLisp code from vrep_common/simRosCreateDummy.srv[0m
-[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosGetInfo.srv[0m
-[ 18%] [34m[1mGenerating Lisp code from vrep_common/simRosGetArrayParameter.srv[0m
-[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUISlider.srv[0m
-[ 18%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectPose[0m
-[ 18%] [34m[1mGenerating Lisp code from vrep_common/simRosGetInfo.srv[0m
-[ 18%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetFloatSignal.srv[0m
-[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadModel.srv[0m
-[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUISlider.srv[0m
-[ 19%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadUI.srv[0m
-[ 19%] [34m[1mGenerating Javascript code from vrep_common/simRosGetFloatSignal.srv[0m
-[ 19%] [34m[1mGenerating Python code from SRV vrep_common/simRosCloseScene[0m
-[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadModel.srv[0m
-[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjects.srv[0m
-[ 20%] [34m[1mGenerating Lisp code from vrep_common/simRosGetFloatSignal.srv[0m
-[ 20%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectHandle.srv[0m
-[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosBreakForceSensor.srv[0m
-[ 20%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetModelProperty[0m
-[ 20%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjects.srv[0m
-[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosClearIntegerSignal.srv[0m
-[ 20%] [34m[1mGenerating EusLisp code from vrep_common/simRosEnablePublisher.srv[0m
-[ 20%] [34m[1mGenerating Lisp code from vrep_common/simRosBreakForceSensor.srv[0m
-[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosGetStringSignal.srv[0m
-[ 20%] [34m[1mGenerating Python code from SRV vrep_common/simRosCreateDummy[0m
-[ 21%] [34m[1mGenerating Lisp code from vrep_common/simRosClearIntegerSignal.srv[0m
-[ 21%] [34m[1mGenerating Javascript code from vrep_common/simRosGetFloatingParameter.srv[0m
-[ 22%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIHandle.srv[0m
-[ 22%] [34m[1mGenerating Lisp code from vrep_common/simRosGetStringSignal.srv[0m
-[ 23%] [34m[1mGenerating Javascript code from vrep_common/simRosSetIntegerSignal.srv[0m
-[ 24%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetFloatSignal[0m
-[ 24%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetJointMatrix.srv[0m
-[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosGetVisionSensorImage.srv[0m
-[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosGetFloatingParameter.srv[0m
-[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosTransferFile.srv[0m
-[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosSetIntegerSignal.srv[0m
-[ 24%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadUI[0m
-[ 24%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectSelection.srv[0m
-[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosGetVisionSensorImage.srv[0m
-[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIEventButton.srv[0m
-[ 24%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisableSubscriber.srv[0m
-[ 24%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectHandle[0m
-[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIButtonProperty.srv[0m
-[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosTransferFile.srv[0m
-[ 25%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectIntParameter.srv[0m
-[ 25%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDialogResult.srv[0m
-[ 26%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIEventButton.srv[0m
-[ 26%] [34m[1mGenerating Python code from SRV vrep_common/simRosEnablePublisher[0m
-[ 26%] [34m[1mGenerating Javascript code from vrep_common/simRosEndDialog.srv[0m
-[ 26%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIButtonProperty.srv[0m
-[ 27%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetArrayParameter.srv[0m
-[ 27%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectFloatParameter.srv[0m
-[ 27%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectIntParameter.srv[0m
-[ 27%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIHandle[0m
-[ 27%] [34m[1mGenerating Javascript code from vrep_common/simRosGetStringParameter.srv[0m
-[ 27%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetInfo.srv[0m
-[ 27%] [34m[1mGenerating Lisp code from vrep_common/simRosEndDialog.srv[0m
-[ 27%] [34m[1mGenerating Javascript code from vrep_common/simRosSynchronous.srv[0m
-[ 27%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetJointMatrix[0m
-[ 27%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectFloatParameter.srv[0m
-[ 27%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUISlider.srv[0m
-[ 27%] [34m[1mGenerating Javascript code from vrep_common/simRosGetLastErrors.srv[0m
-[ 28%] [34m[1mGenerating Lisp code from vrep_common/simRosGetStringParameter.srv[0m
-[ 29%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectGroupData.srv[0m
-[ 30%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectSelection[0m
-[ 30%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadModel.srv[0m
-[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosSynchronous.srv[0m
-[ 30%] [34m[1mGenerating Javascript code from vrep_common/simRosEnableSubscriber.srv[0m
-[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosGetLastErrors.srv[0m
-[ 30%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectParent.srv[0m
-[ 30%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetFloatSignal.srv[0m
-[ 30%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisableSubscriber[0m
-[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectGroupData.srv[0m
-[ 30%] [34m[1mGenerating Javascript code from vrep_common/simRosAppendStringSignal.srv[0m
-[ 31%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjects.srv[0m
-[ 31%] [34m[1mGenerating Javascript code from vrep_common/simRosSetStringSignal.srv[0m
-[ 31%] [34m[1mGenerating Lisp code from vrep_common/simRosEnableSubscriber.srv[0m
-[ 31%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDialogResult[0m
-[ 32%] [34m[1mGenerating Javascript code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
-[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectParent.srv[0m
-[ 33%] [34m[1mGenerating EusLisp code from vrep_common/simRosBreakForceSensor.srv[0m
-[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUISlider.srv[0m
-[ 33%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetArrayParameter[0m
-[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosAppendStringSignal.srv[0m
-[ 33%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearIntegerSignal.srv[0m
-[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
-[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosSetStringSignal.srv[0m
-[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointState.srv[0m
-[ 33%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetInfo[0m
-[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
-[ 33%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetStringSignal.srv[0m
-[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveObject.srv[0m
-[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUISlider.srv[0m
-[ 34%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUISlider[0m
-[ 34%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
-[ 34%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetFloatingParameter.srv[0m
-[ 34%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
-[ 35%] [34m[1mGenerating Javascript code from vrep_common/simRosGetCollectionHandle.srv[0m
-[ 36%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointState.srv[0m
-[ 36%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadModel[0m
-[ 36%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetIntegerSignal.srv[0m
-[ 36%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointForce.srv[0m
-[ 36%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveObject.srv[0m
-[ 36%] [34m[1mGenerating Javascript code from vrep_common/simRosDisplayDialog.srv[0m
-[ 37%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetVisionSensorImage.srv[0m
-[ 37%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
-[ 37%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetFloatSignal[0m
-[ 37%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointTargetVelocity.srv[0m
-[ 37%] [34m[1mGenerating Lisp code from vrep_common/simRosGetCollectionHandle.srv[0m
-[ 37%] [34m[1mGenerating EusLisp code from vrep_common/simRosTransferFile.srv[0m
-[ 37%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDistanceHandle.srv[0m
-[ 37%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjects[0m
-[ 37%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointForce.srv[0m
-[ 38%] [34m[1mGenerating Javascript code from vrep_common/simRosGetIntegerSignal.srv[0m
-[ 38%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIEventButton.srv[0m
-[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosDisplayDialog.srv[0m
-[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosPauseSimulation.srv[0m
-[ 39%] [34m[1mGenerating Python code from SRV vrep_common/simRosBreakForceSensor[0m
-[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointTargetVelocity.srv[0m
-[ 39%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIButtonProperty.srv[0m
-[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosGetModelProperty.srv[0m
-[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDistanceHandle.srv[0m
-[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectChild.srv[0m
-[ 40%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearIntegerSignal[0m
-[ 40%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectIntParameter.srv[0m
-[ 40%] [34m[1mGenerating Lisp code from vrep_common/simRosGetIntegerSignal.srv[0m
-[ 40%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUIButtonLabel.srv[0m
-[ 40%] [34m[1mGenerating Lisp code from vrep_common/simRosPauseSimulation.srv[0m
-[ 40%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetStringSignal[0m
-[ 42%] [34m[1mGenerating Javascript code from vrep_common/simRosCallScriptFunction.srv[0m
-[ 42%] [34m[1mGenerating EusLisp code from vrep_common/simRosEndDialog.srv[0m
-[ 42%] [34m[1mGenerating Lisp code from vrep_common/simRosGetModelProperty.srv[0m
-[ 42%] [34m[1mGenerating Javascript code from vrep_common/simRosSetArrayParameter.srv[0m
-[ 42%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectFloatParameter.srv[0m
-[ 42%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetFloatingParameter[0m
-[ 43%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectChild.srv[0m
-[ 43%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveUI.srv[0m
-[ 43%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUIButtonLabel.srv[0m
-[ 43%] [34m[1mGenerating Javascript code from vrep_common/simRosReadDistance.srv[0m
-[ 43%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetStringParameter.srv[0m
-[ 43%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetIntegerSignal[0m
-[ 43%] [34m[1mGenerating Lisp code from vrep_common/simRosCallScriptFunction.srv[0m
-[ 43%] [34m[1mGenerating Javascript code from vrep_common/simRosReadVisionSensor.srv[0m
-[ 43%] [34m[1mGenerating Lisp code from vrep_common/simRosSetArrayParameter.srv[0m
-[ 43%] [34m[1mGenerating EusLisp code from vrep_common/simRosSynchronous.srv[0m
-[ 43%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetVisionSensorImage[0m
-[ 43%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadScene.srv[0m
-[ 43%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveUI.srv[0m
-[ 44%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
-[ 44%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetLastErrors.srv[0m
-[ 44%] [34m[1mGenerating Python code from SRV vrep_common/simRosTransferFile[0m
-[ 45%] [34m[1mGenerating Lisp code from vrep_common/simRosReadDistance.srv[0m
-[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectPosition.srv[0m
-[ 45%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectGroupData.srv[0m
-[ 45%] [34m[1mGenerating Lisp code from vrep_common/simRosReadVisionSensor.srv[0m
-[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosStartSimulation.srv[0m
-[ 46%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIEventButton[0m
-[ 46%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadScene.srv[0m
-[ 46%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectIntParameter.srv[0m
-[ 47%] [34m[1mGenerating EusLisp code from vrep_common/simRosEnableSubscriber.srv[0m
-[ 47%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
-[ 47%] [34m[1mGenerating Javascript code from vrep_common/simRosSetBooleanParameter.srv[0m
-[ 47%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIButtonProperty[0m
-[ 47%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectPosition.srv[0m
-[ 48%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
-[ 48%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectParent.srv[0m
-[ 50%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDialogInput.srv[0m
-[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosStartSimulation.srv[0m
-[ 50%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectIntParameter[0m
-[ 50%] [34m[1mGenerating EusLisp code from vrep_common/simRosAppendStringSignal.srv[0m
-[ 50%] [34m[1mGenerating Javascript code from vrep_common/simRosClearStringSignal.srv[0m
-[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectIntParameter.srv[0m
-[ 50%] [34m[1mGenerating Python code from SRV vrep_common/simRosEndDialog[0m
-[ 50%] [34m[1mGenerating Javascript code from vrep_common/simRosStopSimulation.srv[0m
-[ 50%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetStringSignal.srv[0m
-[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosSetBooleanParameter.srv[0m
-[ 50%] [34m[1mGenerating Javascript code from vrep_common/simRosClearFloatSignal.srv[0m
-[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
-[ 50%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectFloatParameter[0m
-[ 50%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
-[ 50%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectFloatParameter.srv[0m
-[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDialogInput.srv[0m
-[ 51%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetStringParameter[0m
-[ 52%] [34m[1mGenerating Javascript code from vrep_common/simRosDisablePublisher.srv[0m
-[ 52%] [34m[1mGenerating Lisp code from vrep_common/simRosClearStringSignal.srv[0m
-[ 53%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUISlider.srv[0m
-[ 53%] [34m[1mGenerating Javascript code from vrep_common/simRosGetIntegerParameter.srv[0m
-[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosStopSimulation.srv[0m
-[ 54%] [34m[1mGenerating Python code from SRV vrep_common/simRosSynchronous[0m
-[ 54%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectParent.srv[0m
-[ 54%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
-[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosClearFloatSignal.srv[0m
-[ 54%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointPosition.srv[0m
-[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectFloatParameter.srv[0m
-[ 54%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetLastErrors[0m
-[ 54%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointState.srv[0m
-[ 54%] [34m[1mGenerating Javascript code from vrep_common/simRosSetFloatingParameter.srv[0m
-[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosDisablePublisher.srv[0m
-[ 55%] [34m[1mGenerating Javascript code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
-[ 55%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveObject.srv[0m
-[ 55%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectGroupData[0m
-[ 55%] [34m[1mGenerating Lisp code from vrep_common/simRosGetIntegerParameter.srv[0m
-[ 55%] [34m[1mGenerating Javascript code from vrep_common/simRosAddStatusbarMessage.srv[0m
-[ 56%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectParent.srv[0m
-[ 56%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
-[ 56%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUIButtonProperty.srv[0m
-[ 56%] [34m[1mGenerating Python code from SRV vrep_common/simRosEnableSubscriber[0m
-[ 56%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointPosition.srv[0m
-[ 56%] [34m[1mGenerating Javascript code from vrep_common/simRosSynchronousTrigger.srv[0m
-[ 57%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetCollectionHandle.srv[0m
-[ 57%] [34m[1mGenerating Lisp code from vrep_common/simRosSetFloatingParameter.srv[0m
-[ 57%] [34m[1mGenerating Javascript code from vrep_common/simRosReadForceSensor.srv[0m
-[ 57%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectParent[0m
-[ 57%] [34m[1mGenerating Lisp code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
-[ 57%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointForce.srv[0m
-[ 58%] [34m[1mGenerating Javascript code from vrep_common/simRosGetCollisionHandle.srv[0m
-[ 58%] [34m[1mGenerating Lisp code from vrep_common/simRosAddStatusbarMessage.srv[0m
-[ 59%] [34m[1mGenerating Python code from SRV vrep_common/simRosAppendStringSignal[0m
-[ 59%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectQuaternion.srv[0m
-[ 59%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisplayDialog.srv[0m
-[ 59%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUIButtonProperty.srv[0m
-[ 59%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveModel.srv[0m
-[ 59%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetStringSignal[0m
-[ 59%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointTargetVelocity.srv[0m
-[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosSynchronousTrigger.srv[0m
-[ 60%] [34m[1mGenerating Javascript code from vrep_common/simRosSetVisionSensorImage.srv[0m
-[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosReadForceSensor.srv[0m
-[ 60%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointTargetPosition.srv[0m
-[ 60%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDistanceHandle.srv[0m
-[ 60%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetVisionSensorDepthBuffer[0m
-[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosGetCollisionHandle.srv[0m
-[ 60%] [34m[1mGenerating Javascript code from vrep_common/simRosSetIntegerParameter.srv[0m
-[ 60%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetIntegerSignal.srv[0m
-[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectQuaternion.srv[0m
-[ 61%] [34m[1mGenerating Javascript code from vrep_common/simRosCopyPasteObjects.srv[0m
-[ 61%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUISlider[0m
-[ 61%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveModel.srv[0m
-[ 61%] Built target vrep_common_generate_messages_nodejs
-[ 62%] [34m[1mGenerating EusLisp code from vrep_common/simRosPauseSimulation.srv[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
 [35m[1mScanning dependencies of target vrep_common_generate_messages_cpp[0m
-[ 62%] [34m[1mGenerating C++ code from vrep_common/ProximitySensorData.msg[0m
-[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosSetVisionSensorImage.srv[0m
-[ 63%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleClose[0m
-[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointTargetPosition.srv[0m
-[ 63%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetModelProperty.srv[0m
-[ 64%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointState[0m
-[ 64%] [34m[1mGenerating Lisp code from vrep_common/simRosSetIntegerParameter.srv[0m
-[ 64%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectChild.srv[0m
-[ 64%] [34m[1mGenerating C++ code from vrep_common/VrepInfo.msg[0m
-[ 64%] [34m[1mGenerating Lisp code from vrep_common/simRosCopyPasteObjects.srv[0m
-[ 64%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveObject[0m
-[ 64%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUIButtonLabel.srv[0m
-[ 64%] Built target vrep_common_generate_messages_lisp
-[ 64%] [34m[1mGenerating EusLisp code from vrep_common/simRosCallScriptFunction.srv[0m
-[ 64%] [34m[1mGenerating C++ code from vrep_common/VisionSensorDepthBuff.msg[0m
-[ 64%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleOpen[0m
-[ 64%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetCollectionHandle[0m
-[ 65%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetArrayParameter.srv[0m
-[ 65%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveUI.srv[0m
-[ 65%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointForce[0m
-[ 66%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisplayDialog[0m
-[ 66%] [34m[1mGenerating C++ code from vrep_common/ForceSensorData.msg[0m
-[ 66%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadDistance.srv[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target vrep_common_generate_messages_py[0m
+[  0%] [34m[1mGenerating C++ code from vrep_common/VisionSensorDepthBuff.msg[0m
+[35m[1mScanning dependencies of target vrep_common_generate_messages_nodejs[0m
+[  0%] [34m[1mGenerating C++ code from vrep_common/VisionSensorData.msg[0m
+[  0%] [34m[1mGenerating Python from MSG vrep_common/VisionSensorData[0m
+[  0%] [34m[1mGenerating Javascript code from vrep_common/VisionSensorData.msg[0m
+[  1%] [34m[1mGenerating Javascript code from vrep_common/VisionSensorDepthBuff.msg[0m
+[  1%] [34m[1mGenerating C++ code from vrep_common/ScriptFunctionCallData.msg[0m
+[  1%] [34m[1mGenerating Javascript code from vrep_common/ScriptFunctionCallData.msg[0m
+[  1%] [34m[1mGenerating C++ code from vrep_common/VrepInfo.msg[0m
+[  1%] [34m[1mGenerating Python from MSG vrep_common/VisionSensorDepthBuff[0m
+[  1%] [34m[1mGenerating Javascript code from vrep_common/VrepInfo.msg[0m
+[  1%] [34m[1mGenerating Javascript code from vrep_common/JointSetStateData.msg[0m
+[  1%] [34m[1mGenerating C++ code from vrep_common/JointSetStateData.msg[0m
+[  1%] [34m[1mGenerating Javascript code from vrep_common/ForceSensorData.msg[0m
+[  1%] [34m[1mGenerating Python from MSG vrep_common/ScriptFunctionCallData[0m
+[  2%] [34m[1mGenerating C++ code from vrep_common/ForceSensorData.msg[0m
+[  2%] [34m[1mGenerating Javascript code from vrep_common/ObjectGroupData.msg[0m
+[  3%] [34m[1mGenerating Javascript code from vrep_common/ProximitySensorData.msg[0m
+[  3%] [34m[1mGenerating Python from MSG vrep_common/VrepInfo[0m
+[  3%] [34m[1mGenerating C++ code from vrep_common/ObjectGroupData.msg[0m
+[  3%] [34m[1mGenerating Javascript code from vrep_common/simRosGetFloatingParameter.srv[0m
+[  3%] [34m[1mGenerating C++ code from vrep_common/ProximitySensorData.msg[0m
+[  3%] [34m[1mGenerating Javascript code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
+[  4%] [34m[1mGenerating Python from MSG vrep_common/JointSetStateData[0m
+[  4%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUISlider.srv[0m
+[  4%] [34m[1mGenerating C++ code from vrep_common/simRosGetFloatingParameter.srv[0m
+[  4%] [34m[1mGenerating Javascript code from vrep_common/simRosPauseSimulation.srv[0m
+[  4%] [34m[1mGenerating C++ code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
+[  4%] [34m[1mGenerating Python from MSG vrep_common/ForceSensorData[0m
+[  5%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectHandle.srv[0m
+[  5%] [34m[1mGenerating Javascript code from vrep_common/simRosSetArrayParameter.srv[0m
+[  5%] [34m[1mGenerating Python from MSG vrep_common/ObjectGroupData[0m
+[  5%] [34m[1mGenerating Javascript code from vrep_common/simRosStopSimulation.srv[0m
+[  5%] [34m[1mGenerating Javascript code from vrep_common/simRosCopyPasteObjects.srv[0m
+[  6%] [34m[1mGenerating C++ code from vrep_common/simRosGetUISlider.srv[0m
+[  6%] [34m[1mGenerating C++ code from vrep_common/simRosPauseSimulation.srv[0m
+[  6%] [34m[1mGenerating Python from MSG vrep_common/ProximitySensorData[0m
+[  6%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveModel.srv[0m
+[  7%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUISlider.srv[0m
+[  7%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
+[  7%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetFloatingParameter[0m
+[  7%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveUI.srv[0m
+[  7%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectHandle.srv[0m
+[  7%] [34m[1mGenerating C++ code from vrep_common/simRosSetArrayParameter.srv[0m
+[  7%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUIButtonLabel.srv[0m
+[  8%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetVisionSensorDepthBuffer[0m
+[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosReadProximitySensor.srv[0m
+[  8%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUISlider[0m
+[  8%] [34m[1mGenerating Javascript code from vrep_common/simRosGetVisionSensorImage.srv[0m
+[  8%] [34m[1mGenerating C++ code from vrep_common/simRosStopSimulation.srv[0m
+[  8%] [34m[1mGenerating Python code from SRV vrep_common/simRosPauseSimulation[0m
+[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectParent.srv[0m
+[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectSelection.srv[0m
+[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadScene.srv[0m
+[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosEraseFile.srv[0m
+[  9%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectHandle[0m
+[  9%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetArrayParameter[0m
+[  9%] [34m[1mGenerating Javascript code from vrep_common/simRosGetInfo.srv[0m
+[ 10%] [34m[1mGenerating C++ code from vrep_common/simRosCopyPasteObjects.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDistanceHandle.srv[0m
+[ 11%] [34m[1mGenerating Python code from SRV vrep_common/simRosStopSimulation[0m
+[ 11%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveModel.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectPosition.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectIntParameter.srv[0m
+[ 12%] [34m[1mGenerating Python code from SRV vrep_common/simRosCopyPasteObjects[0m
+[ 12%] [34m[1mGenerating Javascript code from vrep_common/simRosGetStringSignal.srv[0m
+[ 12%] [34m[1mGenerating C++ code from vrep_common/simRosSetUISlider.srv[0m
+[ 12%] [34m[1mGenerating Javascript code from vrep_common/simRosReadCollision.srv[0m
+[ 12%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveModel[0m
+[ 12%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
+[ 12%] [34m[1mGenerating Javascript code from vrep_common/simRosGetCollisionHandle.srv[0m
+[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointState.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUISlider[0m
+[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectFloatParameter.srv[0m
+[ 13%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveUI.srv[0m
+[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosAddStatusbarMessage.srv[0m
+[ 13%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonLabel.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleShow[0m
+[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectSelection.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveUI[0m
+[ 13%] [34m[1mGenerating Javascript code from vrep_common/simRosStartSimulation.srv[0m
+[35m[1mScanning dependencies of target vrep_common_generate_messages_lisp[0m
+[ 14%] [34m[1mGenerating Javascript code from vrep_common/simRosCallScriptFunction.srv[0m
+[ 14%] [34m[1mGenerating Lisp code from vrep_common/VisionSensorData.msg[0m
+[ 15%] [34m[1mGenerating C++ code from vrep_common/simRosReadProximitySensor.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from vrep_common/VisionSensorDepthBuff.msg[0m
+[ 15%] [34m[1mGenerating Javascript code from vrep_common/simRosReadDistance.srv[0m
+[ 16%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUIButtonLabel[0m
+[ 16%] [34m[1mGenerating Lisp code from vrep_common/ScriptFunctionCallData.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from vrep_common/VrepInfo.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from vrep_common/simRosGetFloatSignal.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from vrep_common/JointSetStateData.msg[0m
+[ 17%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadProximitySensor[0m
+[ 17%] [34m[1mGenerating Javascript code from vrep_common/simRosClearStringSignal.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from vrep_common/ForceSensorData.msg[0m
+[ 17%] [34m[1mGenerating C++ code from vrep_common/simRosGetVisionSensorImage.srv[0m
+[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosTransferFile.srv[0m
+[ 18%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetVisionSensorImage[0m
+[ 18%] [34m[1mGenerating Lisp code from vrep_common/ObjectGroupData.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosGetArrayParameter.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from vrep_common/ProximitySensorData.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosSetBooleanParameter.srv[0m
+[ 18%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectParent[0m
+[ 18%] [34m[1mGenerating Lisp code from vrep_common/simRosGetFloatingParameter.srv[0m
+[ 18%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDialogInput.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
+[ 19%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectParent.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from vrep_common/simRosSetStringSignal.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUISlider.srv[0m
+[ 19%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectSelection[0m
+[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosPauseSimulation.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from vrep_common/simRosCreateDummy.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectHandle.srv[0m
+[ 19%] [34m[1mGenerating Python code from SRV vrep_common/simRosEraseFile[0m
+[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosGetModelProperty.srv[0m
+[ 20%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectSelection.srv[0m
+[ 20%] [34m[1mGenerating Lisp code from vrep_common/simRosSetArrayParameter.srv[0m
+[ 20%] [34m[1mGenerating Javascript code from vrep_common/simRosAppendStringSignal.srv[0m
+[ 21%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadScene[0m
+[ 21%] [34m[1mGenerating Lisp code from vrep_common/simRosStopSimulation.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from vrep_common/simRosReadVisionSensor.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from vrep_common/simRosCopyPasteObjects.srv[0m
+[ 22%] [34m[1mGenerating Javascript code from vrep_common/simRosRemoveObject.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveModel.srv[0m
+[ 22%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetInfo[0m
+[ 22%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectChild.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUISlider.srv[0m
+[ 22%] [34m[1mGenerating C++ code from vrep_common/simRosEraseFile.srv[0m
+[ 23%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
+[ 23%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDistanceHandle[0m
+[ 23%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointTargetPosition.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveUI.srv[0m
+[ 23%] [34m[1mGenerating Javascript code from vrep_common/simRosSetUIButtonProperty.srv[0m
+[ 23%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectPosition[0m
+[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUIButtonLabel.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosDisablePublisher.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from vrep_common/simRosReadProximitySensor.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectParent.srv[0m
+[ 25%] [34m[1mGenerating C++ code from vrep_common/simRosLoadScene.srv[0m
+[ 25%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectIntParameter[0m
+[ 25%] [34m[1mGenerating Lisp code from vrep_common/simRosGetVisionSensorImage.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from vrep_common/simRosSetFloatSignal.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectParent.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectPose.srv[0m
+[ 27%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetStringSignal[0m
+[ 27%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectSelection.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIHandle.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from vrep_common/simRosEraseFile.srv[0m
+[ 28%] [34m[1mGenerating C++ code from vrep_common/simRosGetInfo.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from vrep_common/simRosClearIntegerSignal.srv[0m
+[ 28%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadCollision[0m
+[ 28%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadScene.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from vrep_common/simRosGetInfo.srv[0m
+[ 28%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetCollisionHandle[0m
+[ 28%] [34m[1mGenerating Javascript code from vrep_common/simRosSetFloatingParameter.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDistanceHandle.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from vrep_common/simRosGetStringParameter.srv[0m
+[ 29%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectPosition.srv[0m
+[ 29%] [34m[1mGenerating C++ code from vrep_common/simRosGetDistanceHandle.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from vrep_common/simRosGetJointMatrix.srv[0m
+[ 29%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointState[0m
+[ 29%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectIntParameter.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectIntParameter.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosGetStringSignal.srv[0m
+[ 30%] [34m[1mGenerating Javascript code from vrep_common/simRosGetCollectionHandle.srv[0m
+[ 30%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectFloatParameter[0m
+[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosReadCollision.srv[0m
+[ 30%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointTargetVelocity.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from vrep_common/simRosGetCollisionHandle.srv[0m
+[ 31%] [34m[1mGenerating Javascript code from vrep_common/simRosGetJointState.srv[0m
+[ 31%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectPosition.srv[0m
+[ 32%] [34m[1mGenerating Python code from SRV vrep_common/simRosAddStatusbarMessage[0m
+[ 32%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointState.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectFloatParameter.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectFloatParameter.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from vrep_common/simRosGetLastErrors.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosAddStatusbarMessage.srv[0m
+[ 33%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectSelection[0m
+[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosSetVisionSensorImage.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectSelection.srv[0m
+[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosDisplayDialog.srv[0m
+[ 33%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectIntParameter.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosStartSimulation.srv[0m
+[ 33%] [34m[1mGenerating Python code from SRV vrep_common/simRosStartSimulation[0m
+[ 33%] [34m[1mGenerating Javascript code from vrep_common/simRosGetAndClearStringSignal.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from vrep_common/simRosCallScriptFunction.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from vrep_common/simRosEnablePublisher.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from vrep_common/simRosReadDistance.srv[0m
+[ 34%] [34m[1mGenerating Python code from SRV vrep_common/simRosCallScriptFunction[0m
+[ 34%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadModel.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from vrep_common/simRosEnableSubscriber.srv[0m
+[ 34%] [34m[1mGenerating C++ code from vrep_common/simRosGetStringSignal.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from vrep_common/simRosGetFloatSignal.srv[0m
+[ 35%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointPosition.srv[0m
+[ 35%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadDistance[0m
+[ 35%] [34m[1mGenerating Lisp code from vrep_common/simRosClearStringSignal.srv[0m
+[ 35%] [34m[1mGenerating Javascript code from vrep_common/simRosCloseScene.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from vrep_common/simRosTransferFile.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from vrep_common/simRosLoadUI.srv[0m
+[ 36%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleOpen[0m
+[ 36%] [34m[1mGenerating Lisp code from vrep_common/simRosGetArrayParameter.srv[0m
+[ 36%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectQuaternion.srv[0m
+[ 37%] [34m[1mGenerating C++ code from vrep_common/simRosReadCollision.srv[0m
+[ 37%] [34m[1mGenerating Lisp code from vrep_common/simRosSetBooleanParameter.srv[0m
+[ 37%] [34m[1mGenerating Javascript code from vrep_common/simRosBreakForceSensor.srv[0m
+[ 38%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetFloatSignal[0m
+[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDialogInput.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosSetIntegerParameter.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosGetIntegerSignal.srv[0m
+[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosSetStringSignal.srv[0m
+[ 39%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearStringSignal[0m
+[ 39%] [34m[1mGenerating Lisp code from vrep_common/simRosCreateDummy.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from vrep_common/simRosSynchronous.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjects.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from vrep_common/simRosGetModelProperty.srv[0m
+[ 40%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollisionHandle.srv[0m
+[ 40%] [34m[1mGenerating Python code from SRV vrep_common/simRosTransferFile[0m
+[ 40%] [34m[1mGenerating Lisp code from vrep_common/simRosAppendStringSignal.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from vrep_common/simRosGetDialogResult.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from vrep_common/simRosReadForceSensor.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from vrep_common/simRosReadVisionSensor.srv[0m
+[ 41%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetArrayParameter[0m
+[ 41%] [34m[1mGenerating Lisp code from vrep_common/simRosRemoveObject.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from vrep_common/simRosSetModelProperty.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from vrep_common/simRosSynchronousTrigger.srv[0m
+[ 41%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointState.srv[0m
+[ 41%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectChild.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from vrep_common/simRosSetIntegerSignal.srv[0m
+[ 42%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetBooleanParameter[0m
+[ 42%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointTargetPosition.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIEventButton.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from vrep_common/simRosGetIntegerParameter.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from vrep_common/simRosSetUIButtonProperty.srv[0m
+[ 43%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDialogInput[0m
+[ 43%] [34m[1mGenerating Javascript code from vrep_common/simRosSetObjectPose.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from vrep_common/simRosDisablePublisher.srv[0m
+[ 44%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectFloatParameter.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectParent.srv[0m
+[ 44%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetStringSignal[0m
+[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosClearFloatSignal.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from vrep_common/simRosSetFloatSignal.srv[0m
+[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectPose.srv[0m
+[ 45%] [34m[1mGenerating Python code from SRV vrep_common/simRosCreateDummy[0m
+[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosSetJointForce.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIHandle.srv[0m
+[ 45%] [34m[1mGenerating C++ code from vrep_common/simRosAddStatusbarMessage.srv[0m
+[ 45%] [34m[1mGenerating Javascript code from vrep_common/simRosGetBooleanParameter.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from vrep_common/simRosClearIntegerSignal.srv[0m
+[ 46%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetModelProperty[0m
+[ 46%] [34m[1mGenerating Javascript code from vrep_common/simRosGetUIButtonProperty.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
+[ 46%] [34m[1mGenerating Javascript code from vrep_common/simRosDisableSubscriber.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from vrep_common/simRosSetFloatingParameter.srv[0m
+[ 46%] [34m[1mGenerating Python code from SRV vrep_common/simRosAppendStringSignal[0m
+[ 47%] [34m[1mGenerating Javascript code from vrep_common/simRosEndDialog.srv[0m
+[ 47%] [34m[1mGenerating Lisp code from vrep_common/simRosGetStringParameter.srv[0m
+[ 48%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectSelection.srv[0m
+[ 48%] Built target vrep_common_generate_messages_nodejs
+[ 48%] [34m[1mGenerating C++ code from vrep_common/simRosStartSimulation.srv[0m
+[ 48%] [34m[1mGenerating Lisp code from vrep_common/simRosGetJointMatrix.srv[0m
+[ 48%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadVisionSensor[0m
+[ 48%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectIntParameter.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from vrep_common/simRosGetCollectionHandle.srv[0m
+[ 51%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveObject[0m
+[ 51%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointTargetVelocity.srv[0m
+[ 51%] [34m[1mGenerating C++ code from vrep_common/simRosCallScriptFunction.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from vrep_common/simRosGetJointState.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectFloatParameter.srv[0m
+[ 51%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectChild[0m
+[35m[1mScanning dependencies of target vrep_common_generate_messages_eus[0m
+[ 51%] [34m[1mGenerating Lisp code from vrep_common/simRosGetLastErrors.srv[0m
+[ 51%] [34m[1mGenerating EusLisp code from vrep_common/VisionSensorData.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from vrep_common/simRosSetVisionSensorImage.srv[0m
+[ 52%] [34m[1mGenerating EusLisp code from vrep_common/VisionSensorDepthBuff.msg[0m
+[ 52%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleClose[0m
+[ 52%] [34m[1mGenerating Lisp code from vrep_common/simRosDisplayDialog.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from vrep_common/ScriptFunctionCallData.msg[0m
+[ 53%] [34m[1mGenerating C++ code from vrep_common/simRosReadDistance.srv[0m
+[ 53%] [34m[1mGenerating Lisp code from vrep_common/simRosGetAndClearStringSignal.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from vrep_common/VrepInfo.msg[0m
+[ 53%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointTargetPosition[0m
+[ 53%] [34m[1mGenerating Lisp code from vrep_common/simRosEnablePublisher.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from vrep_common/JointSetStateData.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadModel.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from vrep_common/ForceSensorData.msg[0m
+[ 53%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUIButtonProperty[0m
+[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosEnableSubscriber.srv[0m
+[ 54%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
+[ 54%] [34m[1mGenerating EusLisp code from vrep_common/ObjectGroupData.msg[0m
+[ 54%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointPosition.srv[0m
+[ 55%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisablePublisher[0m
+[ 56%] [34m[1mGenerating EusLisp code from vrep_common/ProximitySensorData.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from vrep_common/simRosCloseScene.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from vrep_common/simRosLoadUI.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetFloatingParameter.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectParent[0m
+[ 56%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectQuaternion.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
+[ 57%] [34m[1mGenerating C++ code from vrep_common/simRosGetFloatSignal.srv[0m
+[ 57%] [34m[1mGenerating Lisp code from vrep_common/simRosBreakForceSensor.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUISlider.srv[0m
+[ 57%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetFloatSignal[0m
+[ 58%] [34m[1mGenerating Lisp code from vrep_common/simRosSetIntegerParameter.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from vrep_common/simRosPauseSimulation.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from vrep_common/simRosGetIntegerSignal.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectHandle.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from vrep_common/simRosSynchronous.srv[0m
+[ 58%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectPose[0m
+[ 58%] [34m[1mGenerating C++ code from vrep_common/simRosClearStringSignal.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjects.srv[0m
+[ 59%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetArrayParameter.srv[0m
+[ 59%] [34m[1mGenerating Lisp code from vrep_common/simRosGetDialogResult.srv[0m
+[ 59%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIHandle[0m
+[ 59%] [34m[1mGenerating EusLisp code from vrep_common/simRosStopSimulation.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosReadForceSensor.srv[0m
+[ 60%] [34m[1mGenerating EusLisp code from vrep_common/simRosCopyPasteObjects.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from vrep_common/simRosSetModelProperty.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearIntegerSignal[0m
+[ 61%] [34m[1mGenerating C++ code from vrep_common/simRosTransferFile.srv[0m
+[ 61%] [34m[1mGenerating Lisp code from vrep_common/simRosSynchronousTrigger.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveModel.srv[0m
+[ 61%] [34m[1mGenerating Lisp code from vrep_common/simRosSetIntegerSignal.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUISlider.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetSphericalJointMatrix[0m
+[ 61%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIEventButton.srv[0m
+[ 62%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
+[ 62%] [34m[1mGenerating Lisp code from vrep_common/simRosGetIntegerParameter.srv[0m
+[ 62%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetFloatingParameter[0m
+[ 62%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveUI.srv[0m
+[ 62%] [34m[1mGenerating C++ code from vrep_common/simRosGetArrayParameter.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosSetObjectPose.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUIButtonLabel.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetStringParameter[0m
+[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosClearFloatSignal.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadProximitySensor.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetVisionSensorImage.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetJointMatrix[0m
+[ 63%] [34m[1mGenerating C++ code from vrep_common/simRosSetBooleanParameter.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from vrep_common/simRosSetJointForce.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectParent.srv[0m
+[ 64%] [34m[1mGenerating Lisp code from vrep_common/simRosGetBooleanParameter.srv[0m
+[ 64%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectIntParameter[0m
+[ 65%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectSelection.srv[0m
+[ 65%] [34m[1mGenerating Lisp code from vrep_common/simRosGetUIButtonProperty.srv[0m
+[ 65%] [34m[1mGenerating Lisp code from vrep_common/simRosDisableSubscriber.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from vrep_common/simRosEraseFile.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetCollectionHandle[0m
+[ 66%] [34m[1mGenerating Lisp code from vrep_common/simRosEndDialog.srv[0m
+[ 66%] [34m[1mGenerating C++ code from vrep_common/simRosGetDialogInput.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadScene.srv[0m
+[ 66%] Built target vrep_common_generate_messages_lisp
+[ 66%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetInfo.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDistanceHandle.srv[0m
 [ 66%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointTargetVelocity[0m
-[ 66%] [34m[1mGenerating C++ code from vrep_common/ObjectGroupData.msg[0m
-[ 66%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadVisionSensor.srv[0m
-[ 67%] [34m[1mGenerating C++ code from vrep_common/ScriptFunctionCallData.msg[0m
-[ 67%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDistanceHandle[0m
-[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadScene.srv[0m
-[ 67%] [34m[1mGenerating C++ code from vrep_common/VisionSensorData.msg[0m
-[ 67%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetIntegerSignal[0m
-[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
-[ 67%] [34m[1mGenerating C++ code from vrep_common/JointSetStateData.msg[0m
-[ 68%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectPosition.srv[0m
-[ 68%] [34m[1mGenerating Python code from SRV vrep_common/simRosPauseSimulation[0m
-[ 68%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectPose.srv[0m
-[ 68%] [34m[1mGenerating EusLisp code from vrep_common/simRosStartSimulation.srv[0m
-[ 68%] [34m[1mGenerating C++ code from vrep_common/simRosGetJointState.srv[0m
-[ 68%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetModelProperty[0m
-[ 68%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectIntParameter.srv[0m
-[ 69%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectChild[0m
-[ 69%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetBooleanParameter.srv[0m
-[ 70%] [34m[1mGenerating C++ code from vrep_common/simRosGetAndClearStringSignal.srv[0m
-[ 70%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUIButtonLabel[0m
-[ 70%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
-[ 70%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectSelection.srv[0m
-[ 70%] [34m[1mGenerating Python code from SRV vrep_common/simRosCallScriptFunction[0m
-[ 71%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDialogInput.srv[0m
-[ 71%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearStringSignal.srv[0m
-[ 71%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetArrayParameter[0m
-[ 71%] [34m[1mGenerating C++ code from vrep_common/simRosReadCollision.srv[0m
-[ 71%] [34m[1mGenerating EusLisp code from vrep_common/simRosStopSimulation.srv[0m
-[ 71%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveUI[0m
-[ 71%] [34m[1mGenerating C++ code from vrep_common/simRosGetBooleanParameter.srv[0m
-[ 71%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearFloatSignal.srv[0m
-[ 72%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadDistance[0m
-[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectFloatParameter.srv[0m
-[ 72%] [34m[1mGenerating C++ code from vrep_common/simRosEraseFile.srv[0m
-[ 72%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadVisionSensor[0m
-[ 73%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisablePublisher.srv[0m
-[ 74%] [34m[1mGenerating C++ code from vrep_common/simRosReadProximitySensor.srv[0m
-[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetIntegerParameter.srv[0m
-[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadScene[0m
-[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectParent.srv[0m
-[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsoleShow[0m
-[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointPosition.srv[0m
-[ 74%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectPose.srv[0m
-[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectPosition[0m
-[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetFloatingParameter.srv[0m
-[ 74%] [34m[1mGenerating C++ code from vrep_common/simRosCloseScene.srv[0m
-[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
-[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosStartSimulation[0m
-[ 75%] [34m[1mGenerating EusLisp code from vrep_common/simRosAddStatusbarMessage.srv[0m
-[ 75%] [34m[1mGenerating C++ code from vrep_common/simRosSetModelProperty.srv[0m
-[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectIntParameter[0m
-[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUIButtonProperty.srv[0m
-[ 76%] [34m[1mGenerating C++ code from vrep_common/simRosCreateDummy.srv[0m
-[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetBooleanParameter[0m
-[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosSynchronousTrigger.srv[0m
-[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsolePrint[0m
-[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadForceSensor.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectPosition.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectIntParameter.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetStringSignal.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadCollision.srv[0m
+[ 68%] [34m[1mGenerating C++ code from vrep_common/simRosSetStringSignal.srv[0m
+[ 68%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetJointState[0m
+[ 68%] [34m[1mGenerating C++ code from vrep_common/simRosCreateDummy.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetCollisionHandle.srv[0m
+[ 68%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectFloatParameter[0m
+[ 69%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointState.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectFloatParameter.srv[0m
+[ 69%] [34m[1mGenerating C++ code from vrep_common/simRosGetModelProperty.srv[0m
+[ 69%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetLastErrors[0m
+[ 69%] [34m[1mGenerating EusLisp code from vrep_common/simRosAddStatusbarMessage.srv[0m
+[ 69%] [34m[1mGenerating C++ code from vrep_common/simRosAppendStringSignal.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetVisionSensorImage[0m
+[ 70%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectSelection.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from vrep_common/simRosStartSimulation.srv[0m
+[ 70%] [34m[1mGenerating C++ code from vrep_common/simRosReadVisionSensor.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisplayDialog[0m
+[ 70%] [34m[1mGenerating EusLisp code from vrep_common/simRosCallScriptFunction.srv[0m
+[ 71%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveObject.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadDistance.srv[0m
+[ 72%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetAndClearStringSignal[0m
+[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
+[ 72%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectChild.srv[0m
+[ 72%] [34m[1mGenerating Python code from SRV vrep_common/simRosEnablePublisher[0m
+[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetFloatSignal.srv[0m
+[ 72%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearStringSignal.srv[0m
+[ 72%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadModel[0m
+[ 72%] [34m[1mGenerating EusLisp code from vrep_common/simRosTransferFile.srv[0m
+[ 73%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetArrayParameter.srv[0m
+[ 73%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetPosition.srv[0m
+[ 73%] [34m[1mGenerating Python code from SRV vrep_common/simRosEnableSubscriber[0m
+[ 73%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonProperty.srv[0m
+[ 73%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetBooleanParameter.srv[0m
+[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointPosition[0m
+[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDialogInput.srv[0m
+[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetStringSignal.srv[0m
+[ 74%] [34m[1mGenerating C++ code from vrep_common/simRosDisablePublisher.srv[0m
+[ 74%] [34m[1mGenerating Python code from SRV vrep_common/simRosCloseScene[0m
+[ 74%] [34m[1mGenerating EusLisp code from vrep_common/simRosCreateDummy.srv[0m
+[ 75%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectParent.srv[0m
+[ 75%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetModelProperty.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV vrep_common/simRosLoadUI[0m
+[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosAppendStringSignal.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadVisionSensor.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectQuaternion[0m
+[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveObject.srv[0m
 [ 76%] [34m[1mGenerating C++ code from vrep_common/simRosSetFloatSignal.srv[0m
-[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDialogInput[0m
-[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetCollisionHandle.srv[0m
-[ 77%] [34m[1mGenerating C++ code from vrep_common/simRosLoadUI.srv[0m
-[ 77%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearStringSignal[0m
-[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectQuaternion.srv[0m
-[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosRemoveModel.srv[0m
-[ 79%] [34m[1mGenerating Python code from SRV vrep_common/simRosStopSimulation[0m
-[ 79%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectHandle.srv[0m
-[ 79%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetVisionSensorImage.srv[0m
-[ 79%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearFloatSignal[0m
-[ 79%] [34m[1mGenerating C++ code from vrep_common/simRosEnablePublisher.srv[0m
-[ 79%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointTargetPosition.srv[0m
-[ 79%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectFloatParameter[0m
-[ 79%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetIntegerParameter.srv[0m
-[ 79%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIHandle.srv[0m
-[ 80%] [34m[1mGenerating EusLisp code from vrep_common/simRosCopyPasteObjects.srv[0m
-[ 80%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisablePublisher[0m
+[ 76%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectPose.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectChild.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV vrep_common/simRosBreakForceSensor[0m
+[ 76%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
+[ 77%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointTargetPosition.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetIntegerParameter[0m
+[ 78%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIHandle.srv[0m
+[ 78%] [34m[1mGenerating C++ code from vrep_common/simRosClearIntegerSignal.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetUIButtonProperty.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetIntegerSignal[0m
+[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisablePublisher.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectParent.srv[0m
+[ 78%] [34m[1mGenerating Python code from SRV vrep_common/simRosSynchronous[0m
+[ 78%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetFloatSignal.srv[0m
+[ 79%] [34m[1mGenerating C++ code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
+[ 79%] [34m[1mGenerating C++ code from vrep_common/simRosSetFloatingParameter.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectPose.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjects[0m
+[ 80%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIHandle.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetDialogResult[0m
+[ 80%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearIntegerSignal.srv[0m
+[ 80%] [34m[1mGenerating C++ code from vrep_common/simRosGetStringParameter.srv[0m
 [ 80%] [34m[1mGenerating C++ code from vrep_common/simRosGetJointMatrix.srv[0m
-[ 80%] [34m[1mGenerating EusLisp manifest code for vrep_common[0m
-[ 80%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetIntegerParameter[0m
-[ 81%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectParent[0m
-[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectSelection.srv[0m
-[ 82%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointPosition[0m
-[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosDisableSubscriber.srv[0m
-[ 82%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetFloatingParameter[0m
-[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetDialogResult.srv[0m
-[ 82%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetSphericalJointMatrix[0m
-[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetArrayParameter.srv[0m
-[ 82%] [34m[1mGenerating Python code from SRV vrep_common/simRosAddStatusbarMessage[0m
-[ 82%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetUIButtonProperty[0m
-[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetInfo.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
+[ 81%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadForceSensor[0m
+[ 81%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetFloatingParameter.srv[0m
+[ 81%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetStringParameter.srv[0m
+[ 81%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetModelProperty[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectIntParameter.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollectionHandle.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetJointMatrix.srv[0m
 [ 83%] [34m[1mGenerating Python code from SRV vrep_common/simRosSynchronousTrigger[0m
-[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosGetUISlider.srv[0m
-[ 83%] [34m[1mGenerating Python code from SRV vrep_common/simRosReadForceSensor[0m
-[ 83%] Built target vrep_common_generate_messages_eus
-[ 83%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetCollisionHandle[0m
-[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosLoadModel.srv[0m
-[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosGetFloatSignal.srv[0m
-[ 84%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectQuaternion[0m
-[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjects.srv[0m
-[ 84%] [34m[1mGenerating Python code from SRV vrep_common/simRosRemoveModel[0m
-[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosBreakForceSensor.srv[0m
-[ 85%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetVisionSensorImage[0m
-[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosClearIntegerSignal.srv[0m
-[ 85%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointTargetPosition[0m
-[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosGetStringSignal.srv[0m
-[ 86%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetIntegerParameter[0m
-[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosGetFloatingParameter.srv[0m
-[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosSetIntegerSignal.srv[0m
-[ 86%] [34m[1mGenerating Python code from SRV vrep_common/simRosCopyPasteObjects[0m
-[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosGetVisionSensorImage.srv[0m
-[ 86%] [34m[1mGenerating Python msg __init__.py for vrep_common[0m
-[ 87%] [34m[1mGenerating Python srv __init__.py for vrep_common[0m
-[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosTransferFile.srv[0m
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIEventButton.srv[0m
-[ 88%] Built target vrep_common_generate_messages_py
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIButtonProperty.srv[0m
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectIntParameter.srv[0m
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosEndDialog.srv[0m
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectFloatParameter.srv[0m
-[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosGetStringParameter.srv[0m
-[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronous.srv[0m
-[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosGetLastErrors.srv[0m
-[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectIntParameter.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetCollectionHandle.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetIntegerSignal[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetVelocity.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointTargetVelocity.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetJointState.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIEventButton[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosGetJointState.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectFloatParameter.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetLastErrors.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetIntegerParameter[0m
+[ 84%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetVisionSensorImage.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectFloatParameter.srv[0m
+[ 84%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisplayDialog.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosGetLastErrors.srv[0m
+[ 85%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetObjectPose[0m
+[ 85%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetAndClearStringSignal.srv[0m
+[ 85%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetObjectGroupData[0m
+[ 85%] [34m[1mGenerating EusLisp code from vrep_common/simRosEnablePublisher.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosSetVisionSensorImage.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadModel.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosDisplayDialog.srv[0m
+[ 87%] [34m[1mGenerating Python code from SRV vrep_common/simRosClearFloatSignal[0m
+[ 87%] [34m[1mGenerating EusLisp code from vrep_common/simRosEnableSubscriber.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointPosition.srv[0m
+[ 87%] [34m[1mGenerating Python code from SRV vrep_common/simRosAuxiliaryConsolePrint[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosGetAndClearStringSignal.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from vrep_common/simRosCloseScene.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosEnablePublisher.srv[0m
+[ 87%] [34m[1mGenerating Python code from SRV vrep_common/simRosSetJointForce[0m
+[ 87%] [34m[1mGenerating EusLisp code from vrep_common/simRosLoadUI.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectQuaternion.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetBooleanParameter[0m
+[ 89%] [34m[1mGenerating EusLisp code from vrep_common/simRosBreakForceSensor.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosLoadModel.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetIntegerParameter.srv[0m
 [ 89%] [34m[1mGenerating C++ code from vrep_common/simRosEnableSubscriber.srv[0m
-[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectParent.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosAppendStringSignal.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetStringSignal.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetUISlider.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
-[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointState.srv[0m
-[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveObject.srv[0m
-[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
-[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollectionHandle.srv[0m
-[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointForce.srv[0m
-[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosDisplayDialog.srv[0m
-[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetVelocity.srv[0m
-[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosGetDistanceHandle.srv[0m
-[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerSignal.srv[0m
-[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosPauseSimulation.srv[0m
-[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosGetModelProperty.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectChild.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonLabel.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosCallScriptFunction.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosSetArrayParameter.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveUI.srv[0m
-[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosReadDistance.srv[0m
-[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosReadVisionSensor.srv[0m
-[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosLoadScene.srv[0m
-[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
-[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectPosition.srv[0m
-[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosStartSimulation.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectIntParameter.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosSetBooleanParameter.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosGetDialogInput.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosClearStringSignal.srv[0m
-[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosStopSimulation.srv[0m
-[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosClearFloatSignal.srv[0m
-[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectFloatParameter.srv[0m
-[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosDisablePublisher.srv[0m
-[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerParameter.srv[0m
-[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectParent.srv[0m
-[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointPosition.srv[0m
-[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetFloatingParameter.srv[0m
-[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
-[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosAddStatusbarMessage.srv[0m
-[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonProperty.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronousTrigger.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosReadForceSensor.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollisionHandle.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectQuaternion.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveModel.srv[0m
-[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosSetVisionSensorImage.srv[0m
-[100%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetPosition.srv[0m
-[100%] [34m[1mGenerating C++ code from vrep_common/simRosSetIntegerParameter.srv[0m
-[100%] [34m[1mGenerating C++ code from vrep_common/simRosCopyPasteObjects.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV vrep_common/simRosGetUIButtonProperty[0m
+[ 89%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetIntegerSignal.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV vrep_common/simRosDisableSubscriber[0m
+[ 89%] [34m[1mGenerating EusLisp code from vrep_common/simRosSynchronous.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointPosition.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjects.srv[0m
+[ 91%] [34m[1mGenerating Python code from SRV vrep_common/simRosEndDialog[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosCloseScene.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetDialogResult.srv[0m
+[ 91%] [34m[1mGenerating Python msg __init__.py for vrep_common[0m
+[ 91%] [34m[1mGenerating EusLisp code from vrep_common/simRosReadForceSensor.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosLoadUI.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetModelProperty.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from vrep_common/simRosSynchronousTrigger.srv[0m
+[ 92%] [34m[1mGenerating Python srv __init__.py for vrep_common[0m
+[ 92%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetIntegerSignal.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIEventButton.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetIntegerParameter.srv[0m
+[ 93%] Built target vrep_common_generate_messages_py
+[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectQuaternion.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetObjectPose.srv[0m
+[ 93%] [34m[1mGenerating C++ code from vrep_common/simRosBreakForceSensor.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from vrep_common/simRosClearFloatSignal.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
+[ 94%] [34m[1mGenerating C++ code from vrep_common/simRosSetIntegerParameter.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from vrep_common/simRosSetJointForce.srv[0m
+[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerSignal.srv[0m
+[ 95%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetBooleanParameter.srv[0m
+[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronous.srv[0m
+[ 95%] [34m[1mGenerating EusLisp code from vrep_common/simRosGetUIButtonProperty.srv[0m
+[ 95%] [34m[1mGenerating EusLisp code from vrep_common/simRosDisableSubscriber.srv[0m
+[ 95%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjects.srv[0m
+[ 96%] [34m[1mGenerating EusLisp code from vrep_common/simRosEndDialog.srv[0m
+[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosGetDialogResult.srv[0m
+[ 96%] [34m[1mGenerating C++ code from vrep_common/simRosReadForceSensor.srv[0m
+[ 96%] [34m[1mGenerating EusLisp manifest code for vrep_common[0m
+[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetModelProperty.srv[0m
+[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronousTrigger.srv[0m
+[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosSetIntegerSignal.srv[0m
+[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIEventButton.srv[0m
+[ 97%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerParameter.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectPose.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosClearFloatSignal.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointForce.srv[0m
+[ 98%] [34m[1mGenerating C++ code from vrep_common/simRosGetBooleanParameter.srv[0m
+[100%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIButtonProperty.srv[0m
+[100%] Built target vrep_common_generate_messages_eus
+[100%] [34m[1mGenerating C++ code from vrep_common/simRosDisableSubscriber.srv[0m
+[100%] [34m[1mGenerating C++ code from vrep_common/simRosEndDialog.srv[0m
 [100%] Built target vrep_common_generate_messages_cpp
 [35m[1mScanning dependencies of target vrep_common_generate_messages[0m
 [100%] Built target vrep_common_generate_messages
