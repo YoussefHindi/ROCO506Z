@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
 
 Name: turtlebot_navigation1
 Description: Description of turtlebot_navigation1
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib 
+Libs: -L${prefix}/lib 
 Requires: 

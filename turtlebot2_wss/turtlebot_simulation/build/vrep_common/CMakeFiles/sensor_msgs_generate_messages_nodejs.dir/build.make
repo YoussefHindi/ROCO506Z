@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common
 
 # Utility rule file for sensor_msgs_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_common /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_common/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/depend
 

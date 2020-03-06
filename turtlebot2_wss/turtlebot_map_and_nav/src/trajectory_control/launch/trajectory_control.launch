@@ -8,11 +8,13 @@
          <param name = "trajectory_control_action_server_name" value = "trajectory_control_action_server_$(arg robot_prefix)"/>
 
         <param name = "robot_width" value = "0.354"/>
+
 	 <param name = "displacement" value = "0.05"/>
 	 <param name = "vel_reference" value = "0.035"/>
-	 <param name = "gain_k1" value = "2.5"/>
-	 <param name = "gain_k2" value = "2.5"/>
-	 <param name = "delay" value = "10"/>
+	 <param name = "gain_k1" value = "1.2"/>
+	 <param name = "gain_k2" value = "1.2"/>
+	 <param name = "delay" value = "5"/>
+
         <param name = "max_wheel_vel" value = "0.65"/>
 	 <param name = "global_path_topic" value = "/$(arg robot_prefix)/global_path"/>
 	 <param name = "local_path_topic" value = "/$(arg robot_prefix)/local_path"/>

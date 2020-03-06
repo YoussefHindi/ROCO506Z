@@ -1,42 +1,12 @@
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.bash
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.sh
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./_setup_util.py
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.zsh
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./env.sh
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
-Symlinking /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/catkin_tools_prebuild.pc
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/_setup_util.py, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./_setup_util.py)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/setup.zsh, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.zsh)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/setup.sh, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.sh)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/setup.bash, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.bash)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/local_setup.sh, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.sh)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/local_setup.bash, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.bash)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/local_setup.zsh, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.zsh)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/env.sh, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./env.sh)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/cmake.lock, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./cmake.lock)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake)
-Cleaning: (/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc, /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/catkin_tools_prebuild.pc)
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./_setup_util.py
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.zsh
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.sh
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.bash
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.sh
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.bash
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.zsh
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./env.sh
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
-Already unlinked: {}
-Unlinking: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/catkin_tools_prebuild.pc
-Already unlinked: {}
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./_setup_util.py
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.zsh
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.sh
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./setup.bash
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.sh
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.bash
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./local_setup.zsh
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./env.sh
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/./cmake.lock
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/lib/pkgconfig/catkin_tools_prebuild.pc

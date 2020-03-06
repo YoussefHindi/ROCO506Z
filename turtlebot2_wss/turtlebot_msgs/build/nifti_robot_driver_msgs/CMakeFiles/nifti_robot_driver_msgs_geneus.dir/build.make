@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build
 
 # Utility rule file for nifti_robot_driver_msgs_geneus.
 
@@ -63,10 +63,10 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/build: nif
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/build
 
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/clean:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs && $(CMAKE_COMMAND) -P CMakeFiles/nifti_robot_driver_msgs_geneus.dir/cmake_clean.cmake
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs && $(CMAKE_COMMAND) -P CMakeFiles/nifti_robot_driver_msgs_geneus.dir/cmake_clean.cmake
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/clean
 
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/nifti_robot_driver_msgs /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/nifti_robot_driver_msgs /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_geneus.dir/depend
 
