@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface
 
 # Utility rule file for nav_msgs_generate_messages_py.
 
@@ -67,6 +67,6 @@ CMakeFiles/nav_msgs_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/nav_msgs_generate_messages_py.dir/clean
 
 CMakeFiles/nav_msgs_generate_messages_py.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface/CMakeFiles/nav_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ros_interface /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ros_interface/CMakeFiles/nav_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/nav_msgs_generate_messages_py.dir/depend
 

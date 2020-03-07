@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install
 
 Name: turtlebot_2dslam
 Description: Description of turtlebot_2dslam
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install/lib 
+Libs: -L${prefix}/lib 
 Requires: 

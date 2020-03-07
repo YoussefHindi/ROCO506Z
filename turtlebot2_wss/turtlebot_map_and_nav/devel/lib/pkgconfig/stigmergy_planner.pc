@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
 
 Name: stigmergy_planner
 Description: Description of stigmergy_planner
 Version: 0.0.0
-Cflags: -I/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/stigmergy_planner/include
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib 
+Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/stigmergy_planner/include
+Libs: -L${prefix}/lib 
 Requires: actionlib actionlib actionlib_msgs geometry_msgs interactive_markers trajectory_control_msgs nav_msgs pcl_ros roscpp rospy sensor_msgs std_msgs tf visualization_msgs

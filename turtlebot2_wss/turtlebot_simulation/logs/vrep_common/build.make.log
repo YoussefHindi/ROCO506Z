@@ -1,121 +1,186 @@
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetLastErrors
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisableSubscriber
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetBooleanParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogResult
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger
-[  0%] Built target _vrep_common_generate_messages_check_deps_ProximitySensorData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronous
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadUI
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadModel
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnablePublisher
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadScene
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronousTrigger
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollisionHandle
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjects
-[  0%] Built target _vrep_common_generate_messages_check_deps_ScriptFunctionCallData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectSelection
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUISlider
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIEventButton
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage
+[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorData
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearIntegerSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectFloatParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUISlider
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectParent
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEraseFile
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveUI
+[  0%] Built target _vrep_common_generate_messages_check_deps_ObjectGroupData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearFloatSignal
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosStopSimulation
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearStringSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsolePrint
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogInput
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetBooleanParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectIntParameter
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPosition
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetInfo
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosTransferFile
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosBreakForceSensor
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogResult
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnablePublisher
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisableSubscriber
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectFloatParameter
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectChild
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadUI
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveModel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisablePublisher
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointForce
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetIntegerSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectPose
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetBooleanParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadProximitySensor
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCloseScene
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectParent
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadCollision
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatingParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEraseFile
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetInfo
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion
+[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleShow
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonProperty
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetAndClearStringSignal
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadForceSensor
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectPose
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointForce
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectHandle
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveUI
-[  0%] Built target _vrep_common_generate_messages_check_deps_JointSetStateData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadDistance
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosPauseSimulation
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectSelection
+[  0%] Built target _vrep_common_generate_messages_check_deps_ScriptFunctionCallData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjects
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIButtonProperty
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadVisionSensor
-[  0%] Built target sensor_msgs_generate_messages_cpp
-[  0%] Built target _vrep_common_generate_messages_check_deps_ForceSensorData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetArrayParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosTransferFile
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDialogInput
-[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCreateDummy
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetStringSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointState
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectGroupData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorImage
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointPosition
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveModel
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisablePublisher
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointMatrix
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCallScriptFunction
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCloseScene
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadCollision
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIHandle
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUISlider
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosLoadModel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUISlider
+[  0%] Built target _vrep_common_generate_messages_check_deps_ForceSensorData
+[  0%] Built target _vrep_common_generate_messages_check_deps_JointSetStateData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSynchronous
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetVelocity
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetIntegerSignal
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetModelProperty
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCopyPasteObjects
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIEventButton
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointState
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleOpen
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetFloatSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosClearStringSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetModelProperty
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveObject
-[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointState
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetStringSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCreateDummy
-[  0%] Built target _vrep_common_generate_messages_check_deps_ObjectGroupData
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAddStatusbarMessage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetVisionSensorImage
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetModelProperty
-[  0%] Built target _vrep_common_generate_messages_check_deps_VrepInfo
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisplayDialog
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStartSimulation
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectIntParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetJointMatrix
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetDistanceHandle
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosCallScriptFunction
+[  0%] Built target _vrep_common_generate_messages_check_deps_ProximitySensorData
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetLastErrors
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosEnableSubscriber
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectParent
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetVisionSensorDepthBuffer
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosEndDialog
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosAuxiliaryConsoleClose
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosAppendStringSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetJointTargetPosition
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectParent
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatSignal
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectPose
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetObjectQuaternion
-[  0%] Built target _vrep_common_generate_messages_check_deps_VisionSensorDepthBuff
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetUIHandle
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetSphericalJointMatrix
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetFloatingParameter
-[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection
-[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetModelProperty
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosRemoveObject
 [  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetCollectionHandle
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetObjectSelection
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetUIButtonLabel
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosSetArrayParameter
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosStartSimulation
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosDisplayDialog
+[  0%] Built target _vrep_common_generate_messages_check_deps_VrepInfo
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosPauseSimulation
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosGetStringSignal
+[  0%] Built target sensor_msgs_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target sensor_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _vrep_common_generate_messages_check_deps_simRosReadDistance
+[  0%] Built target sensor_msgs_generate_messages_nodejs
 [  0%] Built target sensor_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target sensor_msgs_generate_messages_eus
-[ 19%] Built target vrep_common_generate_messages_cpp
-[ 39%] Built target vrep_common_generate_messages_py
-[ 60%] Built target vrep_common_generate_messages_nodejs
-[ 79%] Built target vrep_common_generate_messages_lisp
-[100%] Built target vrep_common_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[ 20%] Built target vrep_common_generate_messages_eus
+[ 40%] Built target vrep_common_generate_messages_py
+[ 61%] Built target vrep_common_generate_messages_nodejs
+[ 71%] [34m[1mGenerating C++ code from vrep_common/simRosTransferFile.srv[0m
+[ 80%] Built target vrep_common_generate_messages_lisp
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIEventButton.srv[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosGetUIButtonProperty.srv[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectIntParameter.srv[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosEndDialog.srv[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectFloatParameter.srv[0m
+[ 81%] [34m[1mGenerating C++ code from vrep_common/simRosGetStringParameter.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronous.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetLastErrors.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectGroupData.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosEnableSubscriber.srv[0m
+[ 82%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectParent.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosAppendStringSignal.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosSetStringSignal.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosGetVisionSensorDepthBuffer.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosSetUISlider.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleClose.srv[0m
+[ 83%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointState.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveObject.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleOpen.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollectionHandle.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointForce.srv[0m
+[ 84%] [34m[1mGenerating C++ code from vrep_common/simRosDisplayDialog.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetVelocity.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosGetDistanceHandle.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerSignal.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosPauseSimulation.srv[0m
+[ 85%] [34m[1mGenerating C++ code from vrep_common/simRosGetModelProperty.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectChild.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonLabel.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosCallScriptFunction.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosSetArrayParameter.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveUI.srv[0m
+[ 86%] [34m[1mGenerating C++ code from vrep_common/simRosReadDistance.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosReadVisionSensor.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosLoadScene.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsoleShow.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectPosition.srv[0m
+[ 87%] [34m[1mGenerating C++ code from vrep_common/simRosStartSimulation.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectIntParameter.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosSetBooleanParameter.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosAuxiliaryConsolePrint.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosGetDialogInput.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosClearStringSignal.srv[0m
+[ 88%] [34m[1mGenerating C++ code from vrep_common/simRosStopSimulation.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosClearFloatSignal.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectFloatParameter.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosDisablePublisher.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosGetIntegerParameter.srv[0m
+[ 89%] [34m[1mGenerating C++ code from vrep_common/simRosGetObjectParent.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointPosition.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetFloatingParameter.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetSphericalJointMatrix.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosAddStatusbarMessage.srv[0m
+[ 90%] [34m[1mGenerating C++ code from vrep_common/simRosSetUIButtonProperty.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosSynchronousTrigger.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosReadForceSensor.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosGetCollisionHandle.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosSetObjectQuaternion.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosRemoveModel.srv[0m
+[ 91%] [34m[1mGenerating C++ code from vrep_common/simRosSetVisionSensorImage.srv[0m
+[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosSetJointTargetPosition.srv[0m
+[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosSetIntegerParameter.srv[0m
+[ 92%] [34m[1mGenerating C++ code from vrep_common/simRosCopyPasteObjects.srv[0m
+[100%] Built target vrep_common_generate_messages_cpp
+[35m[1mScanning dependencies of target vrep_common_generate_messages[0m
 [100%] Built target vrep_common_generate_messages

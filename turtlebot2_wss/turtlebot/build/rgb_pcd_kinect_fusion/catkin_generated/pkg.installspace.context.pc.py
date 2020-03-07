@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "rgb_pcd_kinect_fusion"
-PROJECT_SPACE_DIR = "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/install"
+PROJECT_SPACE_DIR = "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/install"
 PROJECT_VERSION = "0.0.0"

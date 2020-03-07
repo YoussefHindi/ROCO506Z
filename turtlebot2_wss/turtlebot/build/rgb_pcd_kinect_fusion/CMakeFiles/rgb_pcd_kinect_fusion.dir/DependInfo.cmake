@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/src/PointCloudRGBCombiner.cpp" "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/CMakeFiles/rgb_pcd_kinect_fusion.dir/src/PointCloudRGBCombiner.cpp.o"
+  "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/src/PointCloudRGBCombiner.cpp" "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/CMakeFiles/rgb_pcd_kinect_fusion.dir/src/PointCloudRGBCombiner.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,21 +20,22 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/opt/ros/kinetic/include"
   "/opt/ros/kinetic/include/opencv-3.3.1-dev"
   "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
+  "/opt/ros/kinetic/share/orocos_kdl/../../include"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/eigen3"
   "/usr/include/pcl-1.7"
   "/usr/include/ni"
   "/usr/include/vtk-6.2"
-  "/usr/include/x86_64-linux-gnu"
-  "/usr/include/freetype2"
-  "/usr/include/jsoncpp"
   "/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"
   "/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"
   "/usr/lib/openmpi/include"
   "/usr/lib/openmpi/include/openmpi"
+  "/usr/include/jsoncpp"
+  "/usr/include/freetype2"
   "/usr/include/python2.7"
-  "/usr/include/libxml2"
+  "/usr/include/x86_64-linux-gnu"
   "/usr/include/tcl"
+  "/usr/include/libxml2"
   )
 
 # Targets to which this target links.

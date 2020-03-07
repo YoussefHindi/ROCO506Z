@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "turtlebot_rviz_launchers"
-PROJECT_SPACE_DIR = "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel"
+PROJECT_SPACE_DIR = "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel"
 PROJECT_VERSION = "2.3.1"

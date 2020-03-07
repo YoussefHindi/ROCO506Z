@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build
 
 # Utility rule file for std_msgs_generate_messages_eus.
 
@@ -63,10 +63,10 @@ rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/build: std_m
 .PHONY : rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/build
 
 rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/clean:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_eus.dir/cmake_clean.cmake
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_eus.dir/cmake_clean.cmake
 .PHONY : rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/clean
 
 rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : rgb_pcd_kinect_fusion/CMakeFiles/std_msgs_generate_messages_eus.dir/depend
 

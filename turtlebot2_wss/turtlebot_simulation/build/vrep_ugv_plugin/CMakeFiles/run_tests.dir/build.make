@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin
 
 # Utility rule file for run_tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests.dir/clean:
 .PHONY : CMakeFiles/run_tests.dir/clean
 
 CMakeFiles/run_tests.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/vrep_ugv_plugin/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests.dir/depend
 

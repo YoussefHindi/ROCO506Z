@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp
+Change Dir: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_be29d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_be29d.dir/build.make CMakeFiles/cmTC_be29d.dir/build
-make[1]: Entering directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_be29d.dir/CheckSymbolExists.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_be29d.dir/CheckSymbolExists.c.o   -c /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_be29d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be29d.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_be29d.dir/CheckSymbolExists.c.o  -o cmTC_be29d -rdynamic 
-CMakeFiles/cmTC_be29d.dir/CheckSymbolExists.c.o: In function `main':
+Run Build Command:"/usr/bin/make" "cmTC_46461/fast"
+/usr/bin/make -f CMakeFiles/cmTC_46461.dir/build.make CMakeFiles/cmTC_46461.dir/build
+make[1]: Entering directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_46461.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_46461.dir/CheckSymbolExists.c.o   -c /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_46461
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_46461.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_46461.dir/CheckSymbolExists.c.o  -o cmTC_46461 -rdynamic 
+CMakeFiles/cmTC_46461.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_be29d.dir/build.make:97: recipe for target 'cmTC_be29d' failed
-make[1]: *** [cmTC_be29d] Error 1
-make[1]: Leaving directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_be29d/fast' failed
-make: *** [cmTC_be29d/fast] Error 2
+CMakeFiles/cmTC_46461.dir/build.make:97: recipe for target 'cmTC_46461' failed
+make[1]: *** [cmTC_46461] Error 1
+make[1]: Leaving directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_46461/fast' failed
+make: *** [cmTC_46461/fast] Error 2
 
-File /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,22 +34,22 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp
+Change Dir: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9fc7b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9fc7b.dir/build.make CMakeFiles/cmTC_9fc7b.dir/build
-make[1]: Entering directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9fc7b.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_9fc7b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_9fc7b
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9fc7b.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_9fc7b.dir/CheckFunctionExists.c.o  -o cmTC_9fc7b -rdynamic -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_177e0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_177e0.dir/build.make CMakeFiles/cmTC_177e0.dir/build
+make[1]: Entering directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_177e0.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_177e0.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_177e0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_177e0.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_177e0.dir/CheckFunctionExists.c.o  -o cmTC_177e0 -rdynamic -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_9fc7b.dir/build.make:97: recipe for target 'cmTC_9fc7b' failed
-make[1]: *** [cmTC_9fc7b] Error 1
-make[1]: Leaving directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_9fc7b/fast' failed
-make: *** [cmTC_9fc7b/fast] Error 2
+CMakeFiles/cmTC_177e0.dir/build.make:97: recipe for target 'cmTC_177e0' failed
+make[1]: *** [cmTC_177e0] Error 1
+make[1]: Leaving directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_177e0/fast' failed
+make: *** [cmTC_177e0/fast] Error 2
 
 
