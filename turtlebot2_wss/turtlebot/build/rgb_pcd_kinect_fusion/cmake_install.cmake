@@ -1,8 +1,8 @@
-# Install script for directory: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion
+# Install script for directory: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/install")
+  set(CMAKE_INSTALL_PREFIX "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusion.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusion.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rgb_pcd_kinect_fusion/cmake" TYPE FILE FILES
-    "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusionConfig.cmake"
-    "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusionConfig-version.cmake"
+    "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusionConfig.cmake"
+    "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/rgb_pcd_kinect_fusion/catkin_generated/installspace/rgb_pcd_kinect_fusionConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rgb_pcd_kinect_fusion" TYPE FILE FILES "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rgb_pcd_kinect_fusion" TYPE FILE FILES "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/package.xml")
 endif()
 

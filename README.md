@@ -23,6 +23,7 @@ roscore
 ./vrep.sh
 roslaunch turtlebot_rviz_launchers vrep_turtlebot_rviz_launch.launch
 roslaunch turtlebot_octomap turtlebot_octomap.launch
+
 roslaunch trajectory_control trajectory_control.launch
 roslaunch stigmergy_planner stigmergy_planner.launch
 

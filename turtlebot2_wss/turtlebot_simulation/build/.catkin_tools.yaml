@@ -1,6 +1,6 @@
-devel_space: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel
+devel_space: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel
 install: false
-install_space: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/install
+install_space: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/install
 profile: default
-source_space: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src
-workspace: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation
+source_space: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src
+workspace: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation

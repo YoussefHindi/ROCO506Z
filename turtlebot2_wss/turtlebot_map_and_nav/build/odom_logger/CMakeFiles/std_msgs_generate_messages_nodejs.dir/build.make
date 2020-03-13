@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src
+CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build
+CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build
 
 # Utility rule file for std_msgs_generate_messages_nodejs.
 
@@ -63,10 +63,10 @@ odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build: std_msgs_gen
 .PHONY : odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
 
 odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/clean:
-	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
 .PHONY : odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/clean
 
 odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/odom_logger /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/odom_logger /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : odom_logger/CMakeFiles/std_msgs_generate_messages_nodejs.dir/depend
 

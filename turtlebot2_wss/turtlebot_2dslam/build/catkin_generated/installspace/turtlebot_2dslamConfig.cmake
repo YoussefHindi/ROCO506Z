@@ -67,14 +67,14 @@ set(turtlebot_2dslam_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(turtlebot_2dslam_SOURCE_PREFIX /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/src)
-  set(turtlebot_2dslam_DEVEL_PREFIX /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/devel)
+  set(turtlebot_2dslam_SOURCE_PREFIX /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/src)
+  set(turtlebot_2dslam_DEVEL_PREFIX /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/devel)
   set(turtlebot_2dslam_INSTALL_PREFIX "")
   set(turtlebot_2dslam_PREFIX ${turtlebot_2dslam_DEVEL_PREFIX})
 else()
   set(turtlebot_2dslam_SOURCE_PREFIX "")
   set(turtlebot_2dslam_DEVEL_PREFIX "")
-  set(turtlebot_2dslam_INSTALL_PREFIX /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install)
+  set(turtlebot_2dslam_INSTALL_PREFIX /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install)
   set(turtlebot_2dslam_PREFIX ${turtlebot_2dslam_INSTALL_PREFIX})
 endif()
 
@@ -110,7 +110,7 @@ if(NOT " " STREQUAL " ")
         message(FATAL_ERROR "Project 'turtlebot_2dslam' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'turtlebot_2dslam' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '\${prefix}/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'turtlebot_2dslam' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install/${idir}'.  ${_report}")
     endif()
     _list_append_unique(turtlebot_2dslam_INCLUDE_DIRS ${include})
   endforeach()
@@ -121,31 +121,6 @@ foreach(library ${libraries})
   # keep build configuration keywords, target names and absolute libraries as-is
   if("${library}" MATCHES "^(debug|optimized|general)$")
     list(APPEND turtlebot_2dslam_LIBRARIES ${library})
-  elseif(${library} MATCHES "^-l")
-    list(APPEND turtlebot_2dslam_LIBRARIES ${library})
-  elseif(${library} MATCHES "^-")
-    # This is a linker flag/option (like -pthread)
-    # There's no standard variable for these, so create an interface library to hold it
-    if(NOT turtlebot_2dslam_NUM_DUMMY_TARGETS)
-      set(turtlebot_2dslam_NUM_DUMMY_TARGETS 0)
-    endif()
-    # Make sure the target name is unique
-    set(interface_target_name "catkin::turtlebot_2dslam::wrapped-linker-option${turtlebot_2dslam_NUM_DUMMY_TARGETS}")
-    while(TARGET "${interface_target_name}")
-      math(EXPR turtlebot_2dslam_NUM_DUMMY_TARGETS "${turtlebot_2dslam_NUM_DUMMY_TARGETS}+1")
-      set(interface_target_name "catkin::turtlebot_2dslam::wrapped-linker-option${turtlebot_2dslam_NUM_DUMMY_TARGETS}")
-    endwhile()
-    add_library("${interface_target_name}" INTERFACE IMPORTED)
-    if("${CMAKE_VERSION}" VERSION_LESS "3.13.0")
-      set_property(
-        TARGET
-        "${interface_target_name}"
-        APPEND PROPERTY
-        INTERFACE_LINK_LIBRARIES "${library}")
-    else()
-      target_link_options("${interface_target_name}" INTERFACE "${library}")
-    endif()
-    list(APPEND turtlebot_2dslam_LIBRARIES "${interface_target_name}")
   elseif(TARGET ${library})
     list(APPEND turtlebot_2dslam_LIBRARIES ${library})
   elseif(IS_ABSOLUTE ${library})
@@ -154,7 +129,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/install/lib;/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/devel/lib;/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/lib;/home/user001/ws_moveit/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

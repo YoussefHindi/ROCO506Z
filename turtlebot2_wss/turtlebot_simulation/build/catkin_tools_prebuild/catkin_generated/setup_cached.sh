@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export PWD="/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/catkin_tools_prebuild"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD="/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/catkin_tools_prebuild"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

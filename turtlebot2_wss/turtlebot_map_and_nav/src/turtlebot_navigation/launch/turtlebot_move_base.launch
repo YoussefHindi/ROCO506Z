@@ -9,11 +9,11 @@
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_local_costmap_params.yaml" command="load" />   
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_global_costmap_params.yaml" command="load" />
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_dwa_local_planner_params.yaml" command="load" />
-    <!-- <rosparam file="$(find turtlebot_navigation)/param/turtlebot_move_base_params.yaml" command="load" />
+    <rosparam file="$(find turtlebot_navigation)/param/turtlebot_move_base_params.yaml" command="load" />
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_global_planner_params.yaml" command="load" />
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_navfn_global_planner_params.yaml" command="load" />
-	-->
-    <!--remap from="/map" to="$(arg robot_prefix)/projected_map"/-->
+	
+    <remap from="/map" to="$(arg robot_prefix)/gmapping"/>
   </node>
   
     <node pkg="turtlebot_navigation" type="twist_to_differential_drive" respawn="false" name="twist_to_differential_drive_$(arg robot_prefix)" output="screen">

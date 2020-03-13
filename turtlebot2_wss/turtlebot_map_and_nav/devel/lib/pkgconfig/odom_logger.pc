@@ -1,8 +1,8 @@
-prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
+prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
 
 Name: odom_logger
 Description: Description of odom_logger
 Version: 0.0.0
 Cflags: 
-Libs: -L${prefix}/lib 
+Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib 
 Requires: nav_msgs roscpp rospy std_msgs geometry_msgs message_filters trajectory_control_msgs
