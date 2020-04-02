@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build
 
 # Utility rule file for nifti_robot_driver_msgs_generate_messages_eus.
 
@@ -63,10 +63,10 @@ turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_e
 .PHONY : turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/build
 
 turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/clean:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard && $(CMAKE_COMMAND) -P CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/cmake_clean.cmake
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard && $(CMAKE_COMMAND) -P CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/cmake_clean.cmake
 .PHONY : turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/clean
 
 turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/turtlebot_teleop_keyboard /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/turtlebot_teleop_keyboard /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : turtlebot_teleop_keyboard/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/depend
 

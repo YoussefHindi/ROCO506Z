@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

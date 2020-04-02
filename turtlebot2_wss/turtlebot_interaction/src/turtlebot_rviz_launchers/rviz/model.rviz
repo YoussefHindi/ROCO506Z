@@ -40,9 +40,12 @@ Panels:
     Property Tree Widget:
       Expanded:
         - /Global Options1
+        - /Map1
         - /Map3
       Splitter Ratio: 0.5
     Tree Height: 279
+Toolbars:
+  toolButtonStyle: 2
 Visualization Manager:
   Class: ""
   Displays:
@@ -454,7 +457,7 @@ Visualization Manager:
       Draw Behind: false
       Enabled: true
       Name: Map
-      Topic: /turtlebot1/gmapping
+      Topic: /turtlebot1/hectormapping
       Unreliable: false
       Use Timestamp: false
       Value: true
@@ -672,27 +675,27 @@ Visualization Manager:
       Class: rviz/Map
       Color Scheme: costmap
       Draw Behind: false
-      Enabled: true
+      Enabled: false
       Name: Map
       Topic: /move_base_turtlebot1/global_costmap/costmap
       Unreliable: false
       Use Timestamp: false
-      Value: true
+      Value: false
     - Alpha: 0.699999988
       Class: rviz/Map
       Color Scheme: costmap
       Draw Behind: false
-      Enabled: true
+      Enabled: false
       Name: Map
       Topic: /move_base_turtlebot1/local_costmap/costmap
       Unreliable: false
       Use Timestamp: false
-      Value: true
+      Value: false
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
     Default Light: true
-    Fixed Frame: map
+    Fixed Frame: odom
     Frame Rate: 30
   Name: root
   Tools:
@@ -708,25 +711,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 1.3149966
+      Distance: 7.16236687
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.0599999987
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: -1.31791961
-        Y: -0.117800936
-        Z: 0.954667628
+        X: 0.169363767
+        Y: 0.0510211959
+        Z: 0.932772934
       Focal Shape Fixed Size: false
       Focal Shape Size: 0.0500000007
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.00999999978
-      Pitch: 0.649796784
+      Pitch: 0.899796486
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 2.11540055
+      Yaw: 1.66539681
     Saved: ~
 Window Geometry:
   Displays:
@@ -749,4 +752,4 @@ Window Geometry:
     collapsed: false
   Width: 1301
   X: 65
-  Y: 60
+  Y: 24

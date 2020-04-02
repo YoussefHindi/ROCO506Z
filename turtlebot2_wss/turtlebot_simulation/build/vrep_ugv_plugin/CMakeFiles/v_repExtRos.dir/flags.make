@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_FLAGS = -fPIC  
 
-CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\"vrep_ugv_plugin\" -Dv_repExtRos_EXPORTS
+CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"vrep_ugv_plugin\" -Dv_repExtRos_EXPORTS
 
-CXX_INCLUDES = -I/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin/include -I/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_common/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/src/vrep_ugv_plugin/include -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_simulation/devel/.private/vrep_common/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src
+CMAKE_SOURCE_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build
+CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build
 
 # Utility rule file for run_tests_turtlebot_description.
 
@@ -63,10 +63,10 @@ turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/build: run_
 .PHONY : turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/build
 
 turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/clean:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description && $(CMAKE_COMMAND) -P CMakeFiles/run_tests_turtlebot_description.dir/cmake_clean.cmake
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description && $(CMAKE_COMMAND) -P CMakeFiles/run_tests_turtlebot_description.dir/cmake_clean.cmake
 .PHONY : turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/clean
 
 turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/depend:
-	cd /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/turtlebot_description /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description /home/user001/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/turtlebot_description /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/build/turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : turtlebot_description/CMakeFiles/run_tests_turtlebot_description.dir/depend
 

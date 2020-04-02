@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/src/PointCloudRGBCombiner.cpp
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/src/rgb_pcd_kinect_fusion/src/PointCloudRGBCombiner.cpp
 string
 -
 ros/ros.h
@@ -2272,6 +2272,8 @@ string
 sensor_msgs/PointCloud2.h
 -
 cstdarg
+-
+sstream
 -
 string
 -

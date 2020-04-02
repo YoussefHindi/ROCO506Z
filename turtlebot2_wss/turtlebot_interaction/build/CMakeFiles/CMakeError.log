@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp
+Change Dir: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_eccef/fast"
-/usr/bin/make -f CMakeFiles/cmTC_eccef.dir/build.make CMakeFiles/cmTC_eccef.dir/build
-make[1]: Entering directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_eccef.dir/CheckSymbolExists.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_eccef.dir/CheckSymbolExists.c.o   -c /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_eccef
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eccef.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_eccef.dir/CheckSymbolExists.c.o  -o cmTC_eccef -rdynamic 
-CMakeFiles/cmTC_eccef.dir/CheckSymbolExists.c.o: In function `main':
+Run Build Command:"/usr/bin/make" "cmTC_7a122/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7a122.dir/build.make CMakeFiles/cmTC_7a122.dir/build
+make[1]: Entering directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a122.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_7a122.dir/CheckSymbolExists.c.o   -c /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_7a122
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a122.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_7a122.dir/CheckSymbolExists.c.o  -o cmTC_7a122 -rdynamic 
+CMakeFiles/cmTC_7a122.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_eccef.dir/build.make:97: recipe for target 'cmTC_eccef' failed
-make[1]: *** [cmTC_eccef] Error 1
-make[1]: Leaving directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_eccef/fast' failed
-make: *** [cmTC_eccef/fast] Error 2
+CMakeFiles/cmTC_7a122.dir/build.make:97: recipe for target 'cmTC_7a122' failed
+make[1]: *** [cmTC_7a122] Error 1
+make[1]: Leaving directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7a122/fast' failed
+make: *** [cmTC_7a122/fast] Error 2
 
-File /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,22 +34,22 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp
+Change Dir: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0257d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0257d.dir/build.make CMakeFiles/cmTC_0257d.dir/build
-make[1]: Entering directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0257d.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_0257d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_0257d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0257d.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_0257d.dir/CheckFunctionExists.c.o  -o cmTC_0257d -rdynamic -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_caeab/fast"
+/usr/bin/make -f CMakeFiles/cmTC_caeab.dir/build.make CMakeFiles/cmTC_caeab.dir/build
+make[1]: Entering directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_caeab.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_caeab.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_caeab
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_caeab.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_caeab.dir/CheckFunctionExists.c.o  -o cmTC_caeab -rdynamic -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_0257d.dir/build.make:97: recipe for target 'cmTC_0257d' failed
-make[1]: *** [cmTC_0257d] Error 1
-make[1]: Leaving directory '/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_0257d/fast' failed
-make: *** [cmTC_0257d/fast] Error 2
+CMakeFiles/cmTC_caeab.dir/build.make:97: recipe for target 'cmTC_caeab' failed
+make[1]: *** [cmTC_caeab] Error 1
+make[1]: Leaving directory '/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_caeab/fast' failed
+make: *** [cmTC_caeab/fast] Error 2
 
 

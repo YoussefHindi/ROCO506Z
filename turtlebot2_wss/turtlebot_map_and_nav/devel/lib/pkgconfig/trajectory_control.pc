@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
 
 Name: trajectory_control
 Description: Description of trajectory_control
 Version: 0.0.0
-Cflags: -I/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/trajectory_control/include
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib 
+Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/trajectory_control/include
+Libs: -L${prefix}/lib 
 Requires: actionlib actionlib_msgs geometry_msgs trajectory_control_msgs nav_msgs nifti_robot_driver_msgs roscpp sensor_msgs std_msgs tf visualization_msgs message_runtime

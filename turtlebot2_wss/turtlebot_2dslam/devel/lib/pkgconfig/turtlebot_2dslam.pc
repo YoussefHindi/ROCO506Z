@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/devel
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/devel
 
 Name: turtlebot_2dslam
 Description: Description of turtlebot_2dslam
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_2dslam/devel/lib 
+Libs: -L${prefix}/lib 
 Requires: 

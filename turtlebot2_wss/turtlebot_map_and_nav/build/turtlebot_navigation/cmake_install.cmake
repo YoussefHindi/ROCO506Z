@@ -1,8 +1,8 @@
-# Install script for directory: /home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation
+# Install script for directory: /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install")
+  set(CMAKE_INSTALL_PREFIX "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigation.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigation.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/turtlebot_navigation/cmake" TYPE FILE FILES
-    "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigationConfig.cmake"
-    "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigationConfig-version.cmake"
+    "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigationConfig.cmake"
+    "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_navigation/catkin_generated/installspace/turtlebot_navigationConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/turtlebot_navigation" TYPE FILE FILES "/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/turtlebot_navigation" TYPE FILE FILES "/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation/package.xml")
 endif()
 

@@ -3,7 +3,7 @@
 <launch>
     
   
-  <arg name="scene" default="$(find vrep_simulation)/scenes/turtlebot2_maze_scenario.ttt" />    
+  <arg name="scene" default="$(find vrep_simulation)/scenes/turtlebot2.ttt" />    
   
   <arg name="headless" default="0" />
   

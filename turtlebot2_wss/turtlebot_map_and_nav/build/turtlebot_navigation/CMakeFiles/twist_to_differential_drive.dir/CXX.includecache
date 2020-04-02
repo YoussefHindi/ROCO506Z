@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation/src/twist_to_differential_drive.cpp
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_navigation/src/twist_to_differential_drive.cpp
 string
 -
 stdio.h
@@ -18,7 +18,7 @@ geometry_msgs/TwistStamped.h
 nifti_robot_driver_msgs/TracksStamped.h
 -
 
-/home/user001/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/include/nifti_robot_driver_msgs/TracksStamped.h
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/include/nifti_robot_driver_msgs/TracksStamped.h
 string
 -
 vector

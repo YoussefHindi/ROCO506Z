@@ -1,8 +1,8 @@
-prefix=/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/install
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/install
 
 Name: turtlebot_description
 Description: Description of turtlebot_description
 Version: 2.4.2
 Cflags: 
-Libs: -L/home/user001/ROCO506Z/turtlebot2_wss/turtlebot/install/lib 
+Libs: -L${prefix}/lib 
 Requires: urdf xacro
