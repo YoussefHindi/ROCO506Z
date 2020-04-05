@@ -13,14 +13,15 @@
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_global_planner_params.yaml" command="load" />
     <rosparam file="$(find turtlebot_navigation)/param/turtlebot_navfn_global_planner_params.yaml" command="load" />
 	
-    <remap from="/map" to="$(arg robot_prefix)/gmapping"/>
+    <remap from="/map" to="$(arg robot_prefix)/hector_mapping"/>
   </node>
   
     <node pkg="turtlebot_navigation" type="twist_to_differential_drive" respawn="false" name="twist_to_differential_drive_$(arg robot_prefix)" output="screen">
-		<param name = "robot_width" value = "0.354"/>
+		<param name = "robot_width" value = "0.55"/>
 		<param name = "max_wheel_vel" value = "0.65"/>
 		<param name = "cmd_vel_topic_name" value = "/cmd_vel"/>
-		<param name = "diff_drive_vel_topic_name" value = "/$(arg robot_prefix)/wheels_vel_cmd"/>		
+		<param name = "diff_drive_vel_topic_name" value = "/$(arg robot_prefix)/wheels_vel_cmd"/>
+		<param name="/use_sim_time" value="true"/>		
   </node>
   
   
