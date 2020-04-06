@@ -1089,6 +1089,19 @@ _catkin_empty_exported_target/fast:
 .PHONY : _catkin_empty_exported_target/fast
 
 #=============================================================================
+# Target rules for targets named path_planning_error_calculation
+
+# Build rule for target.
+path_planning_error_calculation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 path_planning_error_calculation
+.PHONY : path_planning_error_calculation
+
+# fast build rule for target.
+path_planning_error_calculation/fast:
+	$(MAKE) -f path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build.make path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build
+.PHONY : path_planning_error_calculation/fast
+
+#=============================================================================
 # Target rules for targets named trajectory_control_msgs_generate_messages_py
 
 # Build rule for target.
@@ -1666,6 +1679,7 @@ help:
 	@echo "... sensor_msgs_generate_messages_eus"
 	@echo "... joint_state_filtering"
 	@echo "... _catkin_empty_exported_target"
+	@echo "... path_planning_error_calculation"
 	@echo "... trajectory_control_msgs_generate_messages_py"
 	@echo "... trajectory_control_msgs_gennodejs"
 	@echo "... trajectory_control_msgs_generate_messages_nodejs"

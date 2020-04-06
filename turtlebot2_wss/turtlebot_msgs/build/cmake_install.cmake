@@ -128,6 +128,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/gtest/cmake_install.cmake")
   include("/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/nifti_robot_driver_msgs/cmake_install.cmake")
   include("/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/joint_state_filtering/cmake_install.cmake")
+  include("/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/cmake_install.cmake")
   include("/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/trajectory_control_msgs/cmake_install.cmake")
 
 endif()

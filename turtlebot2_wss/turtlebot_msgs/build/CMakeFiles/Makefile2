@@ -361,12 +361,12 @@ clean: gtest/gtest/CMakeFiles/gtest.dir/clean
 gtest/gtest/CMakeFiles/gtest_main.dir/all: gtest/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest_main.dir/build.make gtest/gtest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest_main.dir/build.make gtest/gtest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=8,9 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=8 "Built target gtest_main"
 .PHONY : gtest/gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/gtest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/gtest/CMakeFiles/gtest_main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : gtest/gtest/CMakeFiles/gtest_main.dir/rule
@@ -533,7 +533,7 @@ all: nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_message
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 59
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 58
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages.dir/rule
@@ -768,12 +768,12 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lis
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/all: nifti_robot_driver_msgs/CMakeFiles/_nifti_robot_driver_msgs_generate_messages_check_deps_FlippersStateStamped.dir/all
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=35,36,37,38,39,40,41,42,43,44,45 "Built target nifti_robot_driver_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=34,35,36,37,38,39,40,41,42,43,44,45 "Built target nifti_robot_driver_msgs_generate_messages_lisp"
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_lisp.dir/rule
@@ -1648,12 +1648,12 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/all: nifti_robot_driver_msgs/CMakeFiles/_nifti_robot_driver_msgs_generate_messages_check_deps_FlippersStateStamped.dir/all
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=11,12,13,14,15,16,17,18,19,20,21,22 "Built target nifti_robot_driver_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=11,12,13,14,15,16,17,18,19,20,21 "Built target nifti_robot_driver_msgs_generate_messages_cpp"
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_cpp.dir/rule
@@ -1685,7 +1685,7 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gencpp.dir/all: nifti
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gencpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gencpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gencpp.dir/rule
@@ -1728,7 +1728,7 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/all: nifti_robot_driver_msgs/CMakeFiles/_nifti_robot_driver_msgs_generate_messages_check_deps_FlippersStateStamped.dir/all
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=23,24,25,26,27,28,29,30,31,32,33,34 "Built target nifti_robot_driver_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33 "Built target nifti_robot_driver_msgs_generate_messages_eus"
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1797,7 +1797,7 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_genlisp.dir/all: nift
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_genlisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_genlisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_genlisp.dir/rule
@@ -1840,12 +1840,12 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nod
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/all: nifti_robot_driver_msgs/CMakeFiles/_nifti_robot_driver_msgs_generate_messages_check_deps_FlippersStateStamped.dir/all
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=46,47,48,49,50,51,52,53,54,55,56,57 "Built target nifti_robot_driver_msgs_generate_messages_nodejs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=46,47,48,49,50,51,52,53,54,55,56 "Built target nifti_robot_driver_msgs_generate_messages_nodejs"
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_nodejs.dir/rule
@@ -1877,7 +1877,7 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gennodejs.dir/all: ni
 
 # Build rule for subdir invocation for target.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gennodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 11
 	$(MAKE) -f CMakeFiles/Makefile2 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gennodejs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_gennodejs.dir/rule
@@ -1952,7 +1952,7 @@ nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.
 nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/all: nifti_robot_driver_msgs/CMakeFiles/_nifti_robot_driver_msgs_generate_messages_check_deps_FlippersStateStamped.dir/all
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/build.make nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=58,59,60,61,62,63,64,65,66,67,68,69 "Built target nifti_robot_driver_msgs_generate_messages_py"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=57,58,59,60,61,62,63,64,65,66,67,68 "Built target nifti_robot_driver_msgs_generate_messages_py"
 .PHONY : nifti_robot_driver_msgs/CMakeFiles/nifti_robot_driver_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2533,7 +2533,7 @@ joint_state_filtering/CMakeFiles/joint_state_filtering.dir/all: joint_state_filt
 joint_state_filtering/CMakeFiles/joint_state_filtering.dir/all: joint_state_filtering/CMakeFiles/_catkin_empty_exported_target.dir/all
 	$(MAKE) -f joint_state_filtering/CMakeFiles/joint_state_filtering.dir/build.make joint_state_filtering/CMakeFiles/joint_state_filtering.dir/depend
 	$(MAKE) -f joint_state_filtering/CMakeFiles/joint_state_filtering.dir/build.make joint_state_filtering/CMakeFiles/joint_state_filtering.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=10 "Built target joint_state_filtering"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=9,10 "Built target joint_state_filtering"
 .PHONY : joint_state_filtering/CMakeFiles/joint_state_filtering.dir/all
 
 # Include target in all.
@@ -2543,7 +2543,7 @@ all: joint_state_filtering/CMakeFiles/joint_state_filtering.dir/all
 
 # Build rule for subdir invocation for target.
 joint_state_filtering/CMakeFiles/joint_state_filtering.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 joint_state_filtering/CMakeFiles/joint_state_filtering.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : joint_state_filtering/CMakeFiles/joint_state_filtering.dir/rule
@@ -2592,6 +2592,96 @@ joint_state_filtering/CMakeFiles/_catkin_empty_exported_target.dir/clean:
 
 # clean rule for target.
 clean: joint_state_filtering/CMakeFiles/_catkin_empty_exported_target.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory path_planning_error_calculation
+
+# Convenience name for "all" pass in the directory.
+path_planning_error_calculation/all: path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all
+
+.PHONY : path_planning_error_calculation/all
+
+# Convenience name for "clean" pass in the directory.
+path_planning_error_calculation/clean: path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/clean
+
+.PHONY : path_planning_error_calculation/clean
+
+# Convenience name for "preinstall" pass in the directory.
+path_planning_error_calculation/preinstall:
+
+.PHONY : path_planning_error_calculation/preinstall
+
+#=============================================================================
+# Target rules for target path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir
+
+# All Build rule for target.
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/actionlib_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/geometry_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/nav_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/nav_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/actionlib_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/actionlib_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/actionlib_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/std_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/geometry_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/std_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/nav_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/std_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/nav_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: nifti_robot_driver_msgs/CMakeFiles/nav_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/sensor_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/roscpp_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/roscpp_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/roscpp_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/roscpp_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/roscpp_generate_messages_nodejs.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/sensor_msgs_generate_messages_eus.dir/all
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all: joint_state_filtering/CMakeFiles/_catkin_empty_exported_target.dir/all
+	$(MAKE) -f path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build.make path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/depend
+	$(MAKE) -f path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build.make path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=69,70 "Built target path_planning_error_calculation"
+.PHONY : path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all
+
+# Include target in all.
+all: path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
+.PHONY : path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/rule
+
+# Convenience name for target.
+path_planning_error_calculation: path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/rule
+
+.PHONY : path_planning_error_calculation
+
+# clean rule for target.
+path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/clean:
+	$(MAKE) -f path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/build.make path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/clean
+.PHONY : path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/clean
+
+# clean rule for target.
+clean: path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/clean
 
 .PHONY : clean
 
@@ -2707,7 +2797,7 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gennodejs.dir/all: tr
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gennodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 17
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gennodejs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gennodejs.dir/rule
@@ -2752,7 +2842,7 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_nod
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 17
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_nodejs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_nodejs.dir/rule
@@ -2824,7 +2914,7 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lis
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/all: trajectory_control_msgs/CMakeFiles/_trajectory_control_msgs_generate_messages_check_deps_TrajectoryControlResult.dir/all
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=82,83,84,85,86,87 "Built target trajectory_control_msgs_generate_messages_lisp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=83,84,85,86,87 "Built target trajectory_control_msgs_generate_messages_lisp"
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2861,7 +2951,7 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_geneus.dir/all: traje
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_geneus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 19
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_geneus.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_geneus.dir/rule
@@ -2901,12 +2991,12 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/all: trajectory_control_msgs/CMakeFiles/_trajectory_control_msgs_generate_messages_check_deps_TrajectoryControlResult.dir/all
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=70,71,72,73,74,75 "Built target trajectory_control_msgs_generate_messages_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=71,72,73,74,75 "Built target trajectory_control_msgs_generate_messages_cpp"
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 16
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_cpp.dir/rule
@@ -3002,7 +3092,7 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gencpp.dir/all: traje
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gencpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 16
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gencpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_gencpp.dir/rule
@@ -3426,12 +3516,12 @@ trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/all: trajectory_control_msgs/CMakeFiles/_trajectory_control_msgs_generate_messages_check_deps_TrajectoryControlResult.dir/all
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/build.make trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=76,77,78,79,80,81 "Built target trajectory_control_msgs_generate_messages_eus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles --progress-num=76,77,78,79,80,81,82 "Built target trajectory_control_msgs_generate_messages_eus"
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/all
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 19
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_eus.dir/rule
@@ -3504,7 +3594,7 @@ all: trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_message
 
 # Build rule for subdir invocation for target.
 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 90
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 88
 	$(MAKE) -f CMakeFiles/Makefile2 trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/CMakeFiles 0
 .PHONY : trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages.dir/rule

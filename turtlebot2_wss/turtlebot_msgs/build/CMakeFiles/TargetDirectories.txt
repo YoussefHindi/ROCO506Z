@@ -104,6 +104,14 @@
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/joint_state_filtering/CMakeFiles/install/strip.dir
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/joint_state_filtering/CMakeFiles/_catkin_empty_exported_target.dir
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/joint_state_filtering/CMakeFiles/install/local.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/list_install_components.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/install.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/rebuild_cache.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/edit_cache.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/install/strip.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/install/local.dir
+/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation/CMakeFiles/test.dir
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/trajectory_control_msgs/CMakeFiles/test.dir
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/trajectory_control_msgs/CMakeFiles/install/strip.dir
 /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/trajectory_control_msgs/CMakeFiles/trajectory_control_msgs_generate_messages_py.dir

@@ -365,6 +365,12 @@ nifti_robot_driver_msgs_DIR:PATH=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot
 //Value Computed by CMake
 nifti_robot_driver_msgs_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/nifti_robot_driver_msgs
 
+//Value Computed by CMake
+path_planning_error_calculation_BINARY_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/build/path_planning_error_calculation
+
+//Value Computed by CMake
+path_planning_error_calculation_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/path_planning_error_calculation
+
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/kinetic/share/rosconsole/cmake
 
@@ -524,7 +530,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

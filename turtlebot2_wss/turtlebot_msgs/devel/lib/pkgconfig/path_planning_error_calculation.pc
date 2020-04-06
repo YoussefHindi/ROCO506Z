@@ -1,0 +1,8 @@
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel
+
+Name: path_planning_error_calculation
+Description: Description of path_planning_error_calculation
+Version: 0.0.0
+Cflags: -I/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/path_planning_error_calculation/include
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs
