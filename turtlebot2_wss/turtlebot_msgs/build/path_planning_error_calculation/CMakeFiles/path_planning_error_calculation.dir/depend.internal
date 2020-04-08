@@ -3,10 +3,20 @@
 
 path_planning_error_calculation/CMakeFiles/path_planning_error_calculation.dir/src/error_calculation.cpp.o
  /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/src/path_planning_error_calculation/src/error_calculation.cpp
+ /opt/ros/kinetic/include/actionlib_msgs/GoalID.h
+ /opt/ros/kinetic/include/actionlib_msgs/GoalStatus.h
+ /opt/ros/kinetic/include/actionlib_msgs/GoalStatusArray.h
  /opt/ros/kinetic/include/geometry_msgs/Point.h
  /opt/ros/kinetic/include/geometry_msgs/Pose.h
  /opt/ros/kinetic/include/geometry_msgs/PoseStamped.h
+ /opt/ros/kinetic/include/geometry_msgs/PoseWithCovariance.h
  /opt/ros/kinetic/include/geometry_msgs/Quaternion.h
+ /opt/ros/kinetic/include/geometry_msgs/Twist.h
+ /opt/ros/kinetic/include/geometry_msgs/TwistWithCovariance.h
+ /opt/ros/kinetic/include/geometry_msgs/Vector3.h
+ /opt/ros/kinetic/include/move_base_msgs/MoveBaseActionGoal.h
+ /opt/ros/kinetic/include/move_base_msgs/MoveBaseGoal.h
+ /opt/ros/kinetic/include/nav_msgs/Odometry.h
  /opt/ros/kinetic/include/nav_msgs/Path.h
  /opt/ros/kinetic/include/ros/advertise_options.h
  /opt/ros/kinetic/include/ros/advertise_service_options.h
