@@ -31,9 +31,17 @@ roslaunch turtlebot_teleop_keyboard keyboard_teleop_diff_drive.launch
 roslaunch rgb_pcd_kinect_fusion rgb_pcd_kinect_fusion.launch
 
 
+error_local_path_to_global_path
+=SQRT((A2-C2)^2+(B2-D2)^2)
 
+error_local_path_to_actual_robot_path
+=SQRT((A2-E2)^2+(B2-F2)^2)
 
+total_error
+=SQRT(G2^2+H2^2)
 
+average
+=AVERAGE(I2:_)*100 
 
 
 

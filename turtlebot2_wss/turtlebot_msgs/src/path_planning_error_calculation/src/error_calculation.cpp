@@ -10,7 +10,10 @@
 #include <nav_msgs/Odometry.h>
 #include <move_base_msgs/MoveBaseActionGoal.h>
 
-std::ofstream ofile("/home/youssef/ROCO506Z/error.csv");
+const char *path = "/home/youssef/ROCO506Z/error.csv";
+
+
+std::ofstream ofile(path);
 std_msgs::Float64 local_path_x;
 std_msgs::Float64 local_path_y;
 
@@ -46,7 +49,7 @@ void odomCallback(const nav_msgs::Odometry::ConstPtr& msg)
  {
 
 	odom_path_x.data=msg->pose.pose.position.x;
-	odom_path_y.data=msg->pose.pose.position.x;
+	odom_path_y.data=msg->pose.pose.position.y;
 
  }
 void statusCallback(const actionlib_msgs::GoalStatusArray::ConstPtr& msg)
@@ -83,7 +86,7 @@ ros::Publisher goal_pub = node.advertise<std_msgs::Float64>("/turtlebot1/lc",10)
 ros::Rate loop_rate(10); 
 
 ROS_INFO("please set target goal");
-	ofile <<"local_path_x"<<" " << "local_path_y " <<"global_path_x"<<" " << "global_path_y " <<"actual_path_taken_x"<<" " << "actual_path_taken_y" << " " << "error_local_path_to_global_path" <<" " <<"error_local_path_to_actual_robot_path" << " " <<"total_error"<<" "<<"goal_x"<<" "<<"goal_y"<< std::endl;
+	ofile <<"local_path_x"<<" " << "local_path_y " <<"global_path_x"<<" " << "global_path_y " <<"actual_path_taken_x"<<" " << "actual_path_taken_y" << " " << "error_local_path_to_global_path" <<" " <<"error_local_path_to_actual_robot_path" << " " <<"error_between_global_path_&_actual_path"<<" "<<"goal_x"<<" "<<"goal_y"<< std::endl;
 //ofile <<"         "<<goal_x.data<<" "<<goal_y.data;
 
 while (ros::ok())
@@ -112,6 +115,7 @@ while (ros::ok())
 	}
 	if(check && x==3)
 	{
+	ofile <<"       " << "Average_error_percentage"; 
 	ROS_INFO("goal reached");
 	ROS_INFO("file generated");
 	break;
