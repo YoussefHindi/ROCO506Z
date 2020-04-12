@@ -2,11 +2,11 @@ cmake_minimum_required(VERSION 2.8.3)
 project(turtlebot_navigation)
 
 # Load catkin and all dependencies required for this package
-find_package(catkin REQUIRED COMPONENTS tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs)
+find_package(catkin REQUIRED COMPONENTS tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs nav_core)
 
 # What other packages will need to use this package
 catkin_package(
-    CATKIN_DEPENDS tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs
+    CATKIN_DEPENDS tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs nav_core
 )
 
 # catkin_add_env_hooks(25.turtlebot-navigation SHELLS sh DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/env-hooks)
@@ -16,6 +16,8 @@ catkin_package(
 ## Build ##
 ###########
 include_directories(${catkin_INCLUDE_DIRS})
+
+add_library(path_planners src/pathplanners.cpp)
 
 # Add_executables
 add_executable(laser_footprint_filter src/laser_footprint_filter.cpp)

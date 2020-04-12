@@ -56,16 +56,6 @@ CMAKE_BINARY_DIR = /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/b
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target list_install_components
-list_install_components:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\""
-.PHONY : list_install_components
-
-# Special rule for the target list_install_components
-list_install_components/fast: list_install_components
-
-.PHONY : list_install_components/fast
-
 # Special rule for the target install
 install: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
@@ -100,16 +90,26 @@ test/fast: test
 
 .PHONY : test/fast
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
+# Special rule for the target list_install_components
+list_install_components:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\""
+.PHONY : list_install_components
 
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
+# Special rule for the target list_install_components
+list_install_components/fast: list_install_components
 
-.PHONY : rebuild_cache/fast
+.PHONY : list_install_components/fast
+
+# Special rule for the target install/strip
+install/strip: preinstall
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
+	/usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+.PHONY : install/strip
+
+# Special rule for the target install/strip
+install/strip/fast: install/strip
+
+.PHONY : install/strip/fast
 
 # Special rule for the target install/local
 install/local: preinstall
@@ -122,16 +122,16 @@ install/local/fast: install/local
 
 .PHONY : install/local/fast
 
-# Special rule for the target install/strip
-install/strip: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
-	/usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
-.PHONY : install/strip
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
 
-# Special rule for the target install/strip
-install/strip/fast: install/strip
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
 
-.PHONY : install/strip/fast
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -166,6 +166,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
+
+# Convenience name for target.
+twist_to_differential_drive: turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
+
+.PHONY : twist_to_differential_drive
+
+# fast build rule for target.
+twist_to_differential_drive/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/build.make turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/build
+.PHONY : twist_to_differential_drive/fast
+
+# Convenience name for target.
 turtlebot_navigation/CMakeFiles/laser_footprint_filter.dir/rule:
 	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/laser_footprint_filter.dir/rule
 .PHONY : turtlebot_navigation/CMakeFiles/laser_footprint_filter.dir/rule
@@ -181,19 +196,184 @@ laser_footprint_filter/fast:
 .PHONY : laser_footprint_filter/fast
 
 # Convenience name for target.
-turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule:
-	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
-.PHONY : turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
+turtlebot_navigation/CMakeFiles/path_planners.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/path_planners.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/path_planners.dir/rule
 
 # Convenience name for target.
-twist_to_differential_drive: turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/rule
+path_planners: turtlebot_navigation/CMakeFiles/path_planners.dir/rule
 
-.PHONY : twist_to_differential_drive
+.PHONY : path_planners
 
 # fast build rule for target.
-twist_to_differential_drive/fast:
-	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/build.make turtlebot_navigation/CMakeFiles/twist_to_differential_drive.dir/build
-.PHONY : twist_to_differential_drive/fast
+path_planners/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/path_planners.dir/build.make turtlebot_navigation/CMakeFiles/path_planners.dir/build
+.PHONY : path_planners/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+map_msgs_generate_messages_py: turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/rule
+
+.PHONY : map_msgs_generate_messages_py
+
+# fast build rule for target.
+map_msgs_generate_messages_py/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/build.make turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_py.dir/build
+.PHONY : map_msgs_generate_messages_py/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+costmap_2d_generate_messages_nodejs: turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/rule
+
+.PHONY : costmap_2d_generate_messages_nodejs
+
+# fast build rule for target.
+costmap_2d_generate_messages_nodejs/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_nodejs.dir/build
+.PHONY : costmap_2d_generate_messages_nodejs/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+costmap_2d_generate_messages_lisp: turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/rule
+
+.PHONY : costmap_2d_generate_messages_lisp
+
+# fast build rule for target.
+costmap_2d_generate_messages_lisp/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_lisp.dir/build
+.PHONY : costmap_2d_generate_messages_lisp/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+costmap_2d_generate_messages_cpp: turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/rule
+
+.PHONY : costmap_2d_generate_messages_cpp
+
+# fast build rule for target.
+costmap_2d_generate_messages_cpp/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_cpp.dir/build
+.PHONY : costmap_2d_generate_messages_cpp/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/rule
+
+# Convenience name for target.
+costmap_2d_generate_messages_py: turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/rule
+
+.PHONY : costmap_2d_generate_messages_py
+
+# fast build rule for target.
+costmap_2d_generate_messages_py/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_py.dir/build
+.PHONY : costmap_2d_generate_messages_py/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/rule
+
+# Convenience name for target.
+costmap_2d_gencfg: turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/rule
+
+.PHONY : costmap_2d_gencfg
+
+# fast build rule for target.
+costmap_2d_gencfg/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_gencfg.dir/build
+.PHONY : costmap_2d_gencfg/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+map_msgs_generate_messages_cpp: turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/rule
+
+.PHONY : map_msgs_generate_messages_cpp
+
+# fast build rule for target.
+map_msgs_generate_messages_cpp/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/build.make turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_cpp.dir/build
+.PHONY : map_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+costmap_2d_generate_messages_eus: turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/rule
+
+.PHONY : costmap_2d_generate_messages_eus
+
+# fast build rule for target.
+costmap_2d_generate_messages_eus/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/build.make turtlebot_navigation/CMakeFiles/costmap_2d_generate_messages_eus.dir/build
+.PHONY : costmap_2d_generate_messages_eus/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+map_msgs_generate_messages_eus: turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/rule
+
+.PHONY : map_msgs_generate_messages_eus
+
+# fast build rule for target.
+map_msgs_generate_messages_eus/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/build.make turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_eus.dir/build
+.PHONY : map_msgs_generate_messages_eus/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+map_msgs_generate_messages_lisp: turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/rule
+
+.PHONY : map_msgs_generate_messages_lisp
+
+# fast build rule for target.
+map_msgs_generate_messages_lisp/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/build.make turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_lisp.dir/build
+.PHONY : map_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f CMakeFiles/Makefile2 turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule
+.PHONY : turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+map_msgs_generate_messages_nodejs: turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/rule
+
+.PHONY : map_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+map_msgs_generate_messages_nodejs/fast:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/build.make turtlebot_navigation/CMakeFiles/map_msgs_generate_messages_nodejs.dir/build
+.PHONY : map_msgs_generate_messages_nodejs/fast
 
 src/laser_footprint_filter.o: src/laser_footprint_filter.cpp.o
 
@@ -221,6 +401,33 @@ src/laser_footprint_filter.s: src/laser_footprint_filter.cpp.s
 src/laser_footprint_filter.cpp.s:
 	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/laser_footprint_filter.dir/build.make turtlebot_navigation/CMakeFiles/laser_footprint_filter.dir/src/laser_footprint_filter.cpp.s
 .PHONY : src/laser_footprint_filter.cpp.s
+
+src/pathplanners.o: src/pathplanners.cpp.o
+
+.PHONY : src/pathplanners.o
+
+# target to build an object file
+src/pathplanners.cpp.o:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/path_planners.dir/build.make turtlebot_navigation/CMakeFiles/path_planners.dir/src/pathplanners.cpp.o
+.PHONY : src/pathplanners.cpp.o
+
+src/pathplanners.i: src/pathplanners.cpp.i
+
+.PHONY : src/pathplanners.i
+
+# target to preprocess a source file
+src/pathplanners.cpp.i:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/path_planners.dir/build.make turtlebot_navigation/CMakeFiles/path_planners.dir/src/pathplanners.cpp.i
+.PHONY : src/pathplanners.cpp.i
+
+src/pathplanners.s: src/pathplanners.cpp.s
+
+.PHONY : src/pathplanners.s
+
+# target to generate assembly for a file
+src/pathplanners.cpp.s:
+	cd /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build && $(MAKE) -f turtlebot_navigation/CMakeFiles/path_planners.dir/build.make turtlebot_navigation/CMakeFiles/path_planners.dir/src/pathplanners.cpp.s
+.PHONY : src/pathplanners.cpp.s
 
 src/twist_to_differential_drive.o: src/twist_to_differential_drive.cpp.o
 
@@ -255,18 +462,33 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... list_install_components"
 	@echo "... install"
 	@echo "... edit_cache"
 	@echo "... test"
-	@echo "... laser_footprint_filter"
-	@echo "... rebuild_cache"
-	@echo "... twist_to_differential_drive"
-	@echo "... install/local"
+	@echo "... list_install_components"
 	@echo "... install/strip"
+	@echo "... twist_to_differential_drive"
+	@echo "... laser_footprint_filter"
+	@echo "... path_planners"
+	@echo "... map_msgs_generate_messages_py"
+	@echo "... costmap_2d_generate_messages_nodejs"
+	@echo "... costmap_2d_generate_messages_lisp"
+	@echo "... costmap_2d_generate_messages_cpp"
+	@echo "... install/local"
+	@echo "... costmap_2d_generate_messages_py"
+	@echo "... costmap_2d_gencfg"
+	@echo "... map_msgs_generate_messages_cpp"
+	@echo "... rebuild_cache"
+	@echo "... costmap_2d_generate_messages_eus"
+	@echo "... map_msgs_generate_messages_eus"
+	@echo "... map_msgs_generate_messages_lisp"
+	@echo "... map_msgs_generate_messages_nodejs"
 	@echo "... src/laser_footprint_filter.o"
 	@echo "... src/laser_footprint_filter.i"
 	@echo "... src/laser_footprint_filter.s"
+	@echo "... src/pathplanners.o"
+	@echo "... src/pathplanners.i"
+	@echo "... src/pathplanners.s"
 	@echo "... src/twist_to_differential_drive.o"
 	@echo "... src/twist_to_differential_drive.i"
 	@echo "... src/twist_to_differential_drive.s"

@@ -1,0 +1,8 @@
+prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install
+
+Name: pathplanners
+Description: Description of pathplanners
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_interaction/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/install/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_msgs/devel/lib;/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -185,7 +185,7 @@ foreach(t ${turtlebot_navigation_EXPORTED_TARGETS})
   endif()
 endforeach()
 
-set(depends "tf;roscpp;sensor_msgs;geometry_msgs;nifti_robot_driver_msgs")
+set(depends "tf;roscpp;sensor_msgs;geometry_msgs;nifti_robot_driver_msgs;nav_core")
 foreach(depend ${depends})
   string(REPLACE " " ";" depend_list ${depend})
   # the package name of the dependency must be kept in a unique variable so that it is not overwritten in recursive calls

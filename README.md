@@ -44,5 +44,10 @@ average
 =AVERAGE(I2:_)*100 
 
 
+mean 
+standard deviation
+
+
+
 
 

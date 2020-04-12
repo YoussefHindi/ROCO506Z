@@ -5,4 +5,4 @@ Description: Description of turtlebot_navigation
 Version: 2.3.7
 Cflags: 
 Libs: -L${prefix}/lib 
-Requires: tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs
+Requires: tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs nav_core

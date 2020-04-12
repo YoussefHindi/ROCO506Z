@@ -2,7 +2,7 @@ prefix=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel
 
 Name: turtlebot_navigation1
 Description: Description of turtlebot_navigation1
-Version: 0.0.0
+Version: 2.3.7
 Cflags: 
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: tf roscpp sensor_msgs geometry_msgs nifti_robot_driver_msgs

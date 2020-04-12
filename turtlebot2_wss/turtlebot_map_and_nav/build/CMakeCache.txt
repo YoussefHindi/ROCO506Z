@@ -298,6 +298,9 @@ catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 //The directory containing a CMake configuration file for class_loader.
 class_loader_DIR:PATH=/opt/ros/kinetic/share/class_loader/cmake
 
+//The directory containing a CMake configuration file for costmap_2d.
+costmap_2d_DIR:PATH=/opt/ros/kinetic/share/costmap_2d/cmake
+
 //The directory containing a CMake configuration file for cpp_common.
 cpp_common_DIR:PATH=/opt/ros/kinetic/share/cpp_common/cmake
 
@@ -368,8 +371,14 @@ gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 //The directory containing a CMake configuration file for interactive_markers.
 interactive_markers_DIR:PATH=/opt/ros/kinetic/share/interactive_markers/cmake
 
+//The directory containing a CMake configuration file for laser_geometry.
+laser_geometry_DIR:PATH=/opt/ros/kinetic/share/laser_geometry/cmake
+
 //Path to a library.
-lib:FILEPATH=/opt/ros/kinetic/lib/libxmlrpcpp.so
+lib:FILEPATH=/opt/ros/kinetic/lib/libvoxel_grid.so
+
+//The directory containing a CMake configuration file for map_msgs.
+map_msgs_DIR:PATH=/opt/ros/kinetic/share/map_msgs/cmake
 
 //The directory containing a CMake configuration file for message_filters.
 message_filters_DIR:PATH=/opt/ros/kinetic/share/message_filters/cmake
@@ -380,11 +389,8 @@ message_generation_DIR:PATH=/opt/ros/kinetic/share/message_generation/cmake
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/kinetic/share/message_runtime/cmake
 
-//The directory containing a CMake configuration file for move_base.
-move_base_DIR:PATH=/opt/ros/kinetic/share/move_base/cmake
-
-//The directory containing a CMake configuration file for move_base_msgs.
-move_base_msgs_DIR:PATH=/opt/ros/kinetic/share/move_base_msgs/cmake
+//The directory containing a CMake configuration file for nav_core.
+nav_core_DIR:PATH=/opt/ros/kinetic/share/nav_core/cmake
 
 //The directory containing a CMake configuration file for nav_msgs.
 nav_msgs_DIR:PATH=/opt/ros/kinetic/share/nav_msgs/cmake
@@ -404,6 +410,15 @@ odom_logger_BINARY_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_ma
 //Value Computed by CMake
 odom_logger_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/odom_logger
 
+//Dependencies for target
+path_planners_LIB_DEPENDS:STATIC=
+
+//Value Computed by CMake
+pathplanners_BINARY_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/pp
+
+//Value Computed by CMake
+pathplanners_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/pp
+
 //Value Computed by CMake
 pcd_scan_registration_BINARY_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/pcd_scan_registration
 
@@ -421,9 +436,6 @@ pcl_ros_DIR:PATH=/opt/ros/kinetic/share/pcl_ros/cmake
 
 //The directory containing a CMake configuration file for pluginlib.
 pluginlib_DIR:PATH=/opt/ros/kinetic/share/pluginlib/cmake
-
-//The directory containing a CMake configuration file for rgb_pcd_kinect_fusion.
-rgb_pcd_kinect_fusion_DIR:PATH=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot/devel/share/rgb_pcd_kinect_fusion/cmake
 
 //The directory containing a CMake configuration file for rosbag.
 rosbag_DIR:PATH=/opt/ros/kinetic/share/rosbag/cmake
@@ -524,14 +536,14 @@ turtlebot_navigation_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/tur
 //Value Computed by CMake
 turtlebot_octomap_BINARY_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/build/turtlebot_octomap
 
-//The directory containing a CMake configuration file for turtlebot_octomap.
-turtlebot_octomap_DIR:PATH=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/devel/share/turtlebot_octomap/cmake
-
 //Value Computed by CMake
 turtlebot_octomap_SOURCE_DIR:STATIC=/home/youssef/ROCO506Z/turtlebot2_wss/turtlebot_map_and_nav/src/turtlebot_octomap
 
 //The directory containing a CMake configuration file for visualization_msgs.
 visualization_msgs_DIR:PATH=/opt/ros/kinetic/share/visualization_msgs/cmake
+
+//The directory containing a CMake configuration file for voxel_grid.
+voxel_grid_DIR:PATH=/opt/ros/kinetic/share/voxel_grid/cmake
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/kinetic/share/xmlrpcpp/cmake
@@ -650,7 +662,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=10
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
