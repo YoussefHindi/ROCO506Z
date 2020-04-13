@@ -4,15 +4,15 @@ This simulation shows turtlebot robot where it has multiple functionality SLAM, 
 
 ## Getting Started
 
-clone this repository in your home folder it's highly recommended to be cloned in your home folder for easier modifications. 
+Clone this repository in your home folder it's highly recommended to be cloned in your home folder for easier modifications. 
 
 ### Prerequisites
 
 The following packages was tested using the following:
 
-Ubuntu 16.04
-ROS kinteic 
-VREP PRO EDU V 3.6.2
+Ubuntu 16.04  
+ROS kinteic   
+VREP PRO EDU V 3.6.2  
 
 install the following packages using these commands:
 
