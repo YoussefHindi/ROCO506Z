@@ -123,28 +123,27 @@ navigate the robot using the keyboard arrows make sure you select the the window
 roslaunch turtlebot_teleop_keyboard keyboard_teleop_diff_drive.launch
 ```
 As the robot moves around, a map is build around check the video for Hector mapping SLAM in the videos  folder.
-
 ### Point-To-Point Path Planning (PTP-PP)
 Here you after you build your 2D map using Hector SLAM you will selct point on the map and the robot will move to this point avoiding obstacles using move base using dijkstra path planning algorithm. 
 
 run the launch file for robot path planning navigation using 
-'''
+```
 roslaunch turtlebot_navigation turtlebot_move_base.launch
-'''
+```
 and select any point on the map an automated path will be generated and the robot will follow it and move to the selected target point.
 
 NB  
 (My machine hardware is limited and the simulation for path planning is so slow if you have a better hardware capabilities you might want to change the transform tollerance parameter in "/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_map_and_nav/src/turtlebot_navigation/param/" in files:  
-'''  
+```  
 -turtlebot_global_costmap_params.yaml  
 -turtlebot_local_costmap_params.yaml  
-'''
+```
 and if you want to change the thepath planning algorithim from dijkstra to A* you can do in the file:   
 -turtlebot_local_costmap_params.yaml  
 and set use_dijkstra: false
-'''
+```
 use_dijkstra: false 
-'''
+```
 other path planning algorithms are used will be shown later in this project. 
 
 Check the videos folder showing how to use the package.
@@ -157,9 +156,9 @@ so first you must have all the previous explained packages up and running an mak
 now after you made sure that you gave an initial position to the robot to go to and the robot reached that goal run the error measurement node but first open the file ~/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_msgs/src/path_planning_error_calculation/error_calculation.cpp, and make sure the set path is the path you want to store your .csv file by replacing the "XXXX" with your pc name assuming you done everything right it's default location assuming you clonned the repository in the home folder will be inside /10666089_autonomous_nav folder otheriwse an error might occur or you might not find the file if the file path is not modified.  
 
 then run:
-'''
+```
 rosrun path_planning_error_calculation path_planning_error_calculation
-'''
+```
 the terminal will print "please set target goal" as soon you choos your target goal data will be recorded as long as the robot moves.
 
 As soon the robot reaches it's point the terminal will print "goal reached" and the file will be generated into it's saved path.
@@ -176,18 +175,18 @@ lllllllllllllllllll
 A similar spread sheet will be shown:
 llllllllllllllllll
 Navigate to cell G2 and type the following formula and press "ENTER"
-'''
+```
 =SQRT((A2-C2)^2+(B2-D2)^2)
-'''
+```
 llllllllllllllll
 Navigate to cell H2 and type the following formula and press "ENTER"
-'''
+```
 =SQRT((A2-E2)^2+(B2-F2)^2)
-'''
+```
 Navigate to cell I2 and type the following formula and press "ENTER"
-'''
+```
 =SQRT(G2^2+H2^2)
-'''
+```
 and replicate the same formula for the rest reading by double clicking and the buttom right of the cell to auto complete as shown in the picture below:
 lllllllllllllllllll
 At the end you will find a full spreadsheet as shown in this picture
@@ -196,18 +195,18 @@ lllllllllllllllll
 Now navigate to the very bottom end you wil find "Average_error_percentage" delete the cell next to it and type the following: 
 
 NB:replace the X letter with just the cell letter and number above it
-'''
+```
 =AVERAGE(I2:X)*100 
-'''
+```
 llllllllllllll
 
 The number shown next to "Average_error_percentage" is in percent representing the mean error
 
 If want to calculate the standard deviation apply the exact same for the cell bellow and type this formula:  
-NB:replace the X letter with the same cell letter and number that set in the average.
-'''
+NB:replace the X letter with the same cell letter and number that set in the average.  
+```
 =STDEV(I2:X)
-'''
+```
 In the spread sheet you calculated the mean (Average_Error_Percentage) and the Standard Deviation which how far the path the robot was taking from the the average path error.
 
 Now basically you have calculated the average error percentage between the global path and the actual path taken by the robot most of my expeiments was between 3~10 % which is fairly accurate and acceptable. 
