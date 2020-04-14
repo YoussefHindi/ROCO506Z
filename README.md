@@ -167,34 +167,31 @@ As soon the robot reaches it's point the terminal will print "goal reached" and 
 Now lets' go to the .csv file generated!
 
 ### Error calculation  
+
 the file is saved named "error.csv" open the file.
--- 
+/////
 make sure separated by space is selected and press "ok"
---
+//////
 
 A similar spread sheet will be shown:
---
+////
 Navigate to cell G2 and type the following formula and press "ENTER"
 '''
 =SQRT((A2-C2)^2+(B2-D2)^2)
 '''
--------------
+///////////////
 Navigate to cell H2 and type the following formula and press "ENTER"
 '''
 =SQRT((A2-E2)^2+(B2-F2)^2)
 '''
-
 Navigate to cell I2 and type the following formula and press "ENTER"
 '''
 =SQRT(G2^2+H2^2)
 '''
-
 and replicate the same formula for the rest reading by double clicking and the buttom right of the cell to auto complete as shown in the picture below:
-
-
-----
+/////
 At the end you will find a full spreadsheet as shown in this picture
-----
+/////
 
 Now navigate to the very bottom end you wil find "Average_error_percentage" delete the cell next to it and type the following: 
 
@@ -202,7 +199,7 @@ NB:replace the X letter with just the cell letter and number above it
 '''
 =AVERAGE(I2:X)*100 
 '''
-----
+/////
 
 The number shown next to "Average_error_percentage" is in percent representing the mean error
 
