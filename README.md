@@ -133,7 +133,7 @@ roslaunch turtlebot_navigation turtlebot_move_base.launch
 '''
 and select any point on the map an automated path will be generated and the robot will follow it and move to the selected target point.
 
-####NB
+NB  
 (My machine hardware is limited and the simulation for path planning is so slow if you have a better hardware capabilities you might want to change the transform tollerance parameter in "/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_map_and_nav/src/turtlebot_navigation/param/"
 in files  
 -turtlebot_global_costmap_params.yaml  
