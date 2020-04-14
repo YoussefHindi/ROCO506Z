@@ -115,7 +115,7 @@ while (ros::ok())
 	}
 	if(check && x==3)
 	{
-	ofile <<"       " << "Average_error_percentage"; 
+	ofile <<"       " << "Average_Error_Percentage"<< std::endl<<"       " << "Standard_Deviation";
 	ROS_INFO("goal reached");
 	ROS_INFO("file generated");
 	break;

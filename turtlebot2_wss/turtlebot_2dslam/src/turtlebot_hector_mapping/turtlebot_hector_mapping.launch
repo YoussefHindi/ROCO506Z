@@ -15,7 +15,7 @@
 
     <param name="output_timing" value="true"/>
     <param name="use_tf_scan_transformation" value="true"/>
-    <param name="use_tf_pose_start_estimate" value="true"/>
+    <!--param name="use_tf_pose_start_estimate" value="false"/-->
 
     <param name="map_pub_period" value="1.0"/>
 
