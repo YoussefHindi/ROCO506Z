@@ -182,7 +182,6 @@ Navigate to cell G2 and type the following formula
 
 ```
 =SQRT((A2-C2)^2+(B2-D2)^2)
-
 ```  
 
 <img src="images/formula_inserted.png" >
@@ -195,10 +194,11 @@ Navigate to cell I2 and type the following formula and press "ENTER"
 ```
 =SQRT(G2^2+H2^2)
 ```
-and replicate the same formula for the rest reading by double clicking and the buttom right of the cell to auto complete as shown in the picture below:
-lllllllllllllllllll
+and replicate the same formula for the rest cells by double clicking and the buttom right of the cell to auto complete as shown in the picture below:  
+<img src="images/equations_inserted.png" >
+
 At the end you will find a full spreadsheet as shown in this picture
-lllllllllllllllll
+<img src="images/complete_spreadsheet.png" >
 
 Now navigate to the very bottom end you wil find "Average_error_percentage" delete the cell next to it and type the following: 
 
@@ -206,7 +206,7 @@ NB:replace the X letter with just the cell letter and number above it
 ```
 =AVERAGE(I2:X)*100 
 ```
-llllllllllllll
+<img src="images/average_calculated.png" >
 
 The number shown next to "Average_error_percentage" is in percent representing the mean error
 
@@ -215,8 +215,10 @@ NB:replace the X letter with the same cell letter and number that set in the ave
 ```
 =STDEV(I2:X)
 ```
-In the spread sheet you calculated the mean (Average_Error_Percentage) and the Standard Deviation which how far the path the robot was taking from the the average path error.
+<img src="images/std_dev_formula.png" >
 
+In the spread sheet you calculated the mean (Average_Error_Percentage) and the Standard Deviation which how far the path the robot was taking from the the average path error.
+<img src="images/final_excel.png" >
 Now basically you have calculated the average error percentage between the global path and the actual path taken by the robot most of my expeiments was between 3~10 % which is fairly accurate and acceptable. 
  
 ### EXTRA Improvement to the State of the Art
