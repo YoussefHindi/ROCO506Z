@@ -108,10 +108,7 @@ run the following command
 roslaunch turtlebot_rviz_launchers vrep_turtlebot_rviz_launch.launch
 ```
 
-Now lets start testing SLAM, path plannig, error calculation and finally testing different path planning algorithm.
-
-### SLAM using Hector mapping 
-why we used hector mapping..............
+Hector mapping is quite nice and gives accurate readings.
 
 Run hector mapping launch file 
 ```
@@ -224,7 +221,7 @@ Now basically you have calculated the average error percentage between the globa
  
 ### EXTRA Improvement to the State of the Art
 
-In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this paper for further details about the importance of different path planning algorithims and the importance of each.   
+In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this [paper](http://www.dropwizard.io/1.0.2/docs/) for further details about the importance of different path planning algorithims and the importance of each.   
 
 Change the vrep scene and open the scene "youssef_testing_pp_algorithm" in ('10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_simulation/src/vrep_simulation/scenes/') this scene is more empty with less obstacles where you can notice the robots path easier. The implemented algorithim doesn't see obstacles so make sure the set target point for the robot doesn't have an obstacle in between.
 
@@ -232,11 +229,13 @@ Leaving all up and running including hector SLAM and close any running path plan
 ```
 roslaunch turtlebot_navigation turtlebot_move_base_pp.launch
 ```
-It's default set is Breadth-First Search Algorithim that can be changed to different algorithims such as:
--A*  
--Dijkstra  
--Jump Point Search   
--Breadth-First Search  
+It's default set is Breadth-First Search Algorithim that can be changed to different algorithims such as:  
+
+* A*  
+* Dijkstra  
+* Jump Point Search   
+* Breadth-First Search  
+
 to change it open the file pathplanners.cpp "/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_map_and_nav/src/turtlebot_navigation/src/pathplanners.cpp" and go to line 211, you'll find 4 lines as following:
 ```
 	 //bestPath=AStar(startCell, goalCell,  g_score);  
@@ -254,6 +253,7 @@ As Breadth-First Search is the default and implemented it will be uncommented if
 In this example we changed to A* path planning algorithm.
 
 catkin_make again and source it again and relaunch the launch file again and the new algorithm is set. 
+This package was implemented and based and build up upon from this [github repositiory](http://www.dropwizard.io/1.0.2/docs/)
 
 ### And coding style tests
 
@@ -269,32 +269,17 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [ sahibdhanjal/Path-Planning-Simulator ](https://github.com/sahibdhanjal/Path-Planning-Simulator) - github repository used for different path planning algorithms implementation.
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Mario Giaoni** - *Initial work* 
+* **Youssef Hindi** - *Implemented These additional functionalities* 
+* **Sahib Singh Dhanjal** - *Used his Path planning algorithm node* - [Github Repository](https://github.com/sahibdhanjal/Path-Planning-Simulator)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Thanks Mario for giving initial work to start withand build on 
+* Thanks Sahib Dhanjal for your path planning node
 * Inspiration
-* etc
 
 
