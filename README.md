@@ -178,9 +178,10 @@ make sure separated by space is selected and press "ok"
 <img src="images/space.png" >
 A similar spread sheet will be shown:
 <img src="images/excel.png" >
-Navigate to cell G2 and type the following formula and press (ENTER)  
+Navigate to cell G2 and type the following formula   
 ```
 =SQRT((A2-C2)^2+(B2-D2)^2)
+
 ```
 <img src="images/formula_inserted.png" >
 Navigate to cell H2 and type the following formula and press "ENTER"  
