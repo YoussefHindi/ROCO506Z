@@ -162,25 +162,24 @@ rosrun path_planning_error_calculation path_planning_error_calculation
 ```
 the terminal will print "please set target goal" as soon you choos your target goal data will be recorded as long as the robot moves.
 
-![](img src="images/set_target.png")
+![](images/set_target.png)
 
 As soon the robot reaches it's point the terminal will print "goal reached" and the file will be generated into it's saved path.
-![](img src="images/recording_values.png")
+![](images/recording_values.png)
 
 Now lets' go to the .csv file generated!
-![](img src="images/file_generated.png")
+![](images/file_generated.png)
 
 
 ### Error calculation  
 
 the file is saved named "error.csv" open the file.
 
-<img src="images/space.png" width="100" >
 make sure separated by space is selected and press "ok"
-lllllllllllllllllll
 
+<img src="images/space.png" width="100" >
 A similar spread sheet will be shown:
-llllllllllllllllll
+<img src="images/excel.png" >
 Navigate to cell G2 and type the following formula and press "ENTER"
 ```
 =SQRT((A2-C2)^2+(B2-D2)^2)
