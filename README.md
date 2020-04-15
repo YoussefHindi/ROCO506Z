@@ -200,6 +200,7 @@ and replicate the same formula for the rest cells by double clicking and the but
 At the end you will find a full spreadsheet as shown in this picture
 <img src="images/complete_spreadsheet.png" >  
 
+
 Now navigate to the very bottom end you wil find "Average_error_percentage" delete the cell next to it and type the following: 
 
 NB:replace the X letter with just the cell letter and number above it
@@ -218,12 +219,41 @@ NB:replace the X letter with the same cell letter and number that set in the ave
 <img src="images/std_dev_formula.png" >
 
 In the spread sheet you calculated the mean (Average_Error_Percentage) and the Standard Deviation which how far the path the robot was taking from the the average path error.
-<img src="images/final_excel.png" >
+<img src="images/final_excel.png" >  
 Now basically you have calculated the average error percentage between the global path and the actual path taken by the robot most of my expeiments was between 3~10 % which is fairly accurate and acceptable. 
  
 ### EXTRA Improvement to the State of the Art
 
-In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this paper for further details about the importance of different path planning algorithims and the importance of each. 
+In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this paper for further details about the importance of different path planning algorithims and the importance of each.   
+
+Change the vrep scene and open the scene "youssef_testing_pp_algorithm" in ('10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_simulation/src/vrep_simulation/scenes/') this scene is more empty with less obstacles where you can notice the robots path easier. The implemented algorithim doesn't see obstacles so make sure the set target point for the robot doesn't have an obstacle in between.
+
+Leaving all up and running including hector SLAM and close any running path planning launch files and run the following launch file:
+```
+roslaunch turtlebot_navigation turtlebot_move_base_pp.launch
+```
+It's default set is Breadth-First Search Algorithim that can be changed to different algorithims such as:
+-A*  
+-Dijkstra  
+-Jump Point Search   
+-Breadth-First Search  
+to change it open the file pathplanners.cpp "/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_map_and_nav/src/turtlebot_navigation/src/pathplanners.cpp" and go to line 211, you'll find 4 lines as following:
+```
+	 //bestPath=AStar(startCell, goalCell,  g_score);  
+	 //bestPath=Dijkstra(startCell, goalCell,  g_score);  
+	 bestPath=BFS(startCell, goalCell,  g_score);  
+	 // bestPath=JPS(startCell,goalCell,g_score);  
+```
+As Breadth-First Search is the default and implemented it will be uncommented if you want to change to Jump Point Search simply comment the uncommented line and uncomment your intended algorithm to use like this example.
+```
+	 bestPath=AStar(startCell, goalCell,  g_score);  
+	 //bestPath=Dijkstra(startCell, goalCell,  g_score);  
+	 //bestPath=BFS(startCell, goalCell,  g_score);  
+	 // bestPath=JPS(startCell,goalCell,g_score);   
+```
+In this example we changed to A* path planning algorithm.
+
+catkin_make again and source it again and relaunch the launch file again and the new algorithm is set. 
 
 ### And coding style tests
 
