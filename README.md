@@ -195,10 +195,10 @@ Navigate to cell I2 and type the following formula and press "ENTER"
 =SQRT(G2^2+H2^2)
 ```
 and replicate the same formula for the rest cells by double clicking and the buttom right of the cell to auto complete as shown in the picture below:  
-<img src="images/equations_inserted.png" >
+<img src="images/equations_inseted.png" >
 
 At the end you will find a full spreadsheet as shown in this picture
-<img src="images/complete_spreadsheet.png" >
+<img src="images/complete_spreadsheet.png" >  
 
 Now navigate to the very bottom end you wil find "Average_error_percentage" delete the cell next to it and type the following: 
 
