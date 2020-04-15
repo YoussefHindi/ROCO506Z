@@ -165,8 +165,6 @@ the terminal will print "please set target goal" as soon you choos your target g
 ![](images/set_target.png)
 
 As soon the robot reaches it's point the terminal will print "goal reached" and the file will be generated into it's saved path.
-![](images/recording_values.png)
-
 Now lets' go to the .csv file generated!
 ![](images/file_generated.png)
 
@@ -177,19 +175,19 @@ the file is saved named "error.csv" open the file.
 
 make sure separated by space is selected and press "ok"
 
-<img src="images/space.png" width="100" >
+<img src="images/space.png" >
 A similar spread sheet will be shown:
 <img src="images/excel.png" >
-Navigate to cell G2 and type the following formula and press "ENTER"
+Navigate to cell G2 and type the following formula and press (ENTER)  
 ```
 =SQRT((A2-C2)^2+(B2-D2)^2)
 ```
-llllllllllllllll
-Navigate to cell H2 and type the following formula and press "ENTER"
+<img src="images/formula_inserted.png" >
+Navigate to cell H2 and type the following formula and press "ENTER"  
 ```
 =SQRT((A2-E2)^2+(B2-F2)^2)
 ```
-Navigate to cell I2 and type the following formula and press "ENTER"
+Navigate to cell I2 and type the following formula and press "ENTER"  
 ```
 =SQRT(G2^2+H2^2)
 ```
