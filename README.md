@@ -255,17 +255,11 @@ In this example we changed to A* path planning algorithm.
 catkin_make again and source it again and relaunch the launch file again and the new algorithm is set. 
 This package was implemented and based and build up upon from this [github repositiory](http://www.dropwizard.io/1.0.2/docs/)
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+* Additional Videos can be found for each implementation showing how it works and how to use it.  
+* Images folder is found in this repository as well helping you showing how this implementation works.  
+* sample_files folder contains the map for the scene in .yaml file, also it has an implemented example error.csv file for futher referencing and help.
 
 ## Built With
 
