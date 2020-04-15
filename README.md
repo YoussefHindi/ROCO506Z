@@ -34,7 +34,6 @@ Open the folder (10666089_autonomous_nav) it contains a folder named turtlebot2_
 
 first catkin_make the package turtlebot_msgs.
 
-
 ```
 cd ~/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_msgs/
 catkin_make
@@ -151,7 +150,9 @@ Check the videos folder showing how to use the package.
 ### Error measurement between global path planned and actual path taken by the robot
 Here i have implemented a c++ script which automatically collects the robots position and actual robot path taken and compare it to the robots global path planned and publish the robots coordinates to an ecxel or .csv file using this spreadsheet we will calculate the mean and standard deviation (standard deviation is the calculation of how far the robots position is from the mean error).
 
-so first you must have all the previous explained packages up and running an make sure you first have selected a point for the robot to move to initially before running the error measurement node. (eg. if you have just launched the PTP-PP package give the robot a near point position to navigate to before running the error measurment node). very crucial for the node to run successfully.
+so first you must have all the previous explained packages up and running an make sure you first have selected a point for the robot to move to initially before running the error measurement node. (eg. if you have just launched the PTP-PP package give the robot a near point position to navigate to before running the error measurment node), very crucial for the node to run successfully.
+
+
 
 now after you made sure that you gave an initial position to the robot to go to and the robot reached that goal run the error measurement node but first open the file ~/10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_msgs/src/path_planning_error_calculation/error_calculation.cpp, and make sure the set path is the path you want to store your .csv file by replacing the "XXXX" with your pc name assuming you done everything right it's default location assuming you clonned the repository in the home folder will be inside /10666089_autonomous_nav folder otheriwse an error might occur or you might not find the file if the file path is not modified.  
 
@@ -161,9 +162,14 @@ rosrun path_planning_error_calculation path_planning_error_calculation
 ```
 the terminal will print "please set target goal" as soon you choos your target goal data will be recorded as long as the robot moves.
 
+img src="images/set_target.png"
+
 As soon the robot reaches it's point the terminal will print "goal reached" and the file will be generated into it's saved path.
+img src="images/recording_values.png"
 
 Now lets' go to the .csv file generated!
+img src="images/file_generated.png"
+
 
 ### Error calculation  
 
