@@ -221,7 +221,7 @@ Now basically you have calculated the average error percentage between the globa
  
 ### EXTRA Improvement to the State of the Art
 
-In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this [paper](http://www.dropwizard.io/1.0.2/docs/) for further details about the importance of different path planning algorithims and the importance of each.   
+In this secion i chose to improve the path planning algorithm by applying different path planning methods to th state of the art. The importance of this section is not easily identifiable as different path planning algorithims has it's advantages and disadvantages such as getting stuck in local minima or high computational time for path calculation etc. check this [paper](https://www.researchgate.net/publication/320774676_Path_Planning_Algorithms_A_comparative_study) for further details about the importance of different path planning algorithims and the importance of each.   
 
 Change the vrep scene and open the scene "youssef_testing_pp_algorithm" in ('10666089_autonomous_nav/autonomous_navigation_wss/turtlebot_simulation/src/vrep_simulation/scenes/') this scene is more empty with less obstacles where you can notice the robots path easier. The implemented algorithim doesn't see obstacles so make sure the set target point for the robot doesn't have an obstacle in between.
 
@@ -253,7 +253,7 @@ As Breadth-First Search is the default and implemented it will be uncommented if
 In this example we changed to A* path planning algorithm.
 
 catkin_make again and source it again and relaunch the launch file again and the new algorithm is set. 
-This package was implemented and based and build up upon from this [github repositiory](http://www.dropwizard.io/1.0.2/docs/)
+This package was implemented and based and build up upon from this [github repositiory](https://github.com/sahibdhanjal/Path-Planning-Simulator)
 
 ## Deployment
 
@@ -272,8 +272,7 @@ This package was implemented and based and build up upon from this [github repos
 
 ## Acknowledgments
 
-* Thanks Mario for giving initial work to start withand build on 
+* Thanks Mario for giving initial work to start with and build on as well as teaching us to use it
 * Thanks Sahib Dhanjal for your path planning node
-* Inspiration
 
 
